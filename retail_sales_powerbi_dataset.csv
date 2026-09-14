@@ -1,0 +1,1201 @@
+﻿Order ID,Order Date,Product,Category,Region,Customer Segment,Sales Channel,Quantity,Unit Price,Discount,Sales,Cost,Profit
+ORD-10001,2025-10-16,Webcam,Technology,North,Consumer,Online,1,113.75,0.05,99.42,59.24,40.18
+ORD-10002,2024-02-02,Monitor,Technology,East,Consumer,Online,1,287.0,0.05,286.28,169.22,117.06
+ORD-10003,2025-08-26,Laptop,Technology,East,Corporate,Online,1,1002.94,0,1053.09,611.63,441.46
+ORD-10004,2024-04-09,Printer Paper,Office Supplies,West,Consumer,Online,8,15.2,0.2,107.01,56.36,50.65
+ORD-10005,2025-07-19,Webcam,Technology,West,Small Business,Online,1,106.37,0.1,115.84,59.98,55.86
+ORD-10006,2024-03-22,Laptop Stand,Accessories,North-East,Consumer,Retail Store,6,43.93,0.05,250.4,123.23,127.17
+ORD-10007,2025-12-19,Laptop Stand,Accessories,West,Corporate,Retail Store,5,43.94,0.05,286.98,104.93,182.05
+ORD-10008,2025-10-17,Standing Desk,Furniture,North,Small Business,Retail Store,1,500.87,0,460.8,309.61,151.19
+ORD-10009,2024-08-04,Backpack,Accessories,North,Consumer,Retail Store,8,82.81,0,609.48,313.77,295.71
+ORD-10010,2025-07-05,Headset,Technology,North-East,Small Business,Online,1,100.68,0.05,105.21,44.39,60.82
+ORD-10011,2024-02-18,USB-C Hub,Accessories,East,Corporate,Online,3,64.9,0.1,183.99,91.15,92.84
+ORD-10012,2024-09-14,Laptop Stand,Accessories,Central,Corporate,Retail Store,7,46.66,0.05,366.14,140.08,226.06
+ORD-10013,2024-06-10,File Folder Pack,Office Supplies,North,Small Business,Retail Store,2,20.94,0,38.53,18.45,20.08
+ORD-10014,2025-09-15,Keyboard,Technology,East,Corporate,Retail Store,1,72.0,0,75.6,37.29,38.31
+ORD-10015,2025-01-06,Phone Charger,Accessories,East,Consumer,B2B Sales,2,29.06,0.05,57.97,23.64,34.33
+ORD-10016,2025-06-29,Standing Desk,Furniture,North-East,Small Business,Online,1,530.74,0.2,424.59,323.96,100.63
+ORD-10017,2025-12-07,Keyboard,Technology,North-East,Small Business,Retail Store,1,75.88,0,94.85,37.84,57.01
+ORD-10018,2024-12-12,Headset,Technology,East,Corporate,Online,3,91.76,0,361.31,132.6,228.71
+ORD-10019,2024-12-04,Monitor,Technology,North,Corporate,Online,1,294.99,0.05,322.28,172.22,150.06
+ORD-10020,2025-04-29,Standing Desk,Furniture,Central,Consumer,Online,1,523.49,0.1,555.95,318.41,237.54
+ORD-10021,2025-10-23,Mouse,Technology,North,Small Business,Online,1,40.55,0,37.31,17.87,19.44
+ORD-10022,2025-04-18,Laptop,Technology,North-East,Small Business,B2B Sales,1,973.95,0.05,925.25,608.24,317.01
+ORD-10023,2024-04-05,USB-C Hub,Accessories,East,Consumer,Retail Store,7,68.27,0,501.78,205.83,295.95
+ORD-10024,2025-02-03,Mouse,Technology,North,Consumer,B2B Sales,4,40.62,0.1,134.53,71.34,63.19
+ORD-10025,2024-10-30,Laptop,Technology,West,Corporate,Online,1,916.76,0.05,958.01,647.5,310.51
+ORD-10026,2025-06-27,Headset,Technology,Central,Small Business,Online,1,99.39,0.05,111.42,47.07,64.35
+ORD-10027,2025-08-06,Headset,Technology,Central,Corporate,Online,3,96.17,0.15,289.38,134.23,155.15
+ORD-10028,2024-11-17,Mouse,Technology,East,Corporate,Online,1,41.41,0,54.35,18.22,36.13
+ORD-10029,2025-07-30,Laptop Stand,Accessories,West,Consumer,Online,6,47.16,0.15,291.02,120.7,170.32
+ORD-10030,2024-06-10,Stapler,Office Supplies,North,Corporate,B2B Sales,1,18.48,0.05,16.15,8.36,7.79
+ORD-10031,2024-04-16,USB-C Hub,Accessories,North,Consumer,Online,3,64.17,0.1,159.4,92.72,66.68
+ORD-10032,2024-07-27,Bookshelf,Furniture,West,Consumer,B2B Sales,2,174.46,0.05,401.08,189.88,211.2
+ORD-10033,2024-01-04,Pen Set,Office Supplies,North,Consumer,Online,7,12.19,0,78.5,29.29,49.21
+ORD-10034,2025-12-08,Backpack,Accessories,Central,Small Business,Retail Store,3,85.25,0,377.23,114.63,262.6
+ORD-10035,2024-02-10,USB-C Hub,Accessories,East,Corporate,Online,9,68.73,0.1,584.55,282.1,302.45
+ORD-10036,2024-08-30,USB-C Hub,Accessories,North-East,Consumer,Retail Store,6,67.49,0.05,384.69,184.84,199.85
+ORD-10037,2024-09-11,Webcam,Technology,Central,Consumer,Online,1,107.8,0.15,108.12,58.26,49.86
+ORD-10038,2024-08-21,Webcam,Technology,East,Consumer,Online,1,114.11,0.05,113.82,58.91,54.91
+ORD-10039,2025-11-26,Backpack,Accessories,North,Small Business,Online,6,83.12,0.2,458.82,227.68,231.14
+ORD-10040,2024-04-21,Printer Paper,Office Supplies,North,Consumer,B2B Sales,2,14.98,0.05,26.19,13.97,12.22
+ORD-10041,2025-12-26,Stapler,Office Supplies,West,Corporate,B2B Sales,5,17.94,0,123.34,41.06,82.28
+ORD-10042,2024-12-04,Office Chair,Furniture,North,Consumer,Retail Store,1,226.54,0.05,247.49,124.18,123.31
+ORD-10043,2025-11-11,USB-C Hub,Accessories,West,Corporate,Online,1,64.38,0,88.52,31.05,57.47
+ORD-10044,2025-09-13,Desk Lamp,Furniture,North-East,Consumer,Online,1,57.76,0.1,51.98,23.81,28.17
+ORD-10045,2024-03-27,Webcam,Technology,West,Consumer,Retail Store,2,113.0,0,248.6,115.3,133.3
+ORD-10046,2024-01-26,Mouse,Technology,West,Small Business,Online,1,40.92,0,45.01,18.52,26.49
+ORD-10047,2025-05-21,Pen Set,Office Supplies,Central,Small Business,B2B Sales,2,12.45,0,29.38,8.29,21.09
+ORD-10048,2025-12-13,Notebook,Office Supplies,West,Consumer,B2B Sales,8,7.79,0.05,81.41,24.41,57.0
+ORD-10049,2025-07-26,Desk Organizer,Office Supplies,West,Small Business,B2B Sales,8,26.08,0.05,239.83,91.77,148.06
+ORD-10050,2025-05-01,Pen Set,Office Supplies,North,Corporate,Retail Store,5,11.85,0,54.51,20.0,34.51
+ORD-10051,2024-10-05,Stapler,Office Supplies,Central,Consumer,Online,3,18.55,0,65.67,24.2,41.47
+ORD-10052,2025-07-09,Notebook,Office Supplies,East,Small Business,Online,1,8.37,0.1,8.7,3.02,5.68
+ORD-10053,2024-01-07,Phone Charger,Accessories,North-East,Small Business,B2B Sales,8,30.41,0.1,218.95,99.46,119.49
+ORD-10054,2024-08-13,Printer Paper,Office Supplies,North-East,Consumer,Online,7,15.49,0.15,92.17,51.17,41.0
+ORD-10055,2025-09-29,Desk Organizer,Office Supplies,West,Corporate,Online,9,24.34,0.05,228.92,97.37,131.55
+ORD-10056,2025-01-23,Desk Organizer,Office Supplies,North,Consumer,B2B Sales,5,25.88,0.15,101.19,54.87,46.32
+ORD-10057,2024-03-24,File Folder Pack,Office Supplies,West,Consumer,B2B Sales,4,20.5,0.1,81.18,36.92,44.26
+ORD-10058,2024-02-01,USB-C Hub,Accessories,Central,Corporate,Online,11,66.75,0.05,823.09,328.43,494.66
+ORD-10059,2025-12-17,Keyboard,Technology,East,Corporate,B2B Sales,3,77.83,0,306.46,114.2,192.26
+ORD-10060,2025-08-15,Keyboard,Technology,West,Corporate,B2B Sales,1,77.36,0,85.1,39.08,46.02
+ORD-10061,2025-10-04,Webcam,Technology,North,Small Business,Retail Store,1,116.42,0.1,96.4,58.25,38.15
+ORD-10062,2025-03-14,Office Chair,Furniture,West,Corporate,Online,1,221.98,0.05,231.97,125.67,106.3
+ORD-10063,2025-04-15,Desk Lamp,Furniture,East,Corporate,B2B Sales,1,57.25,0.05,57.11,24.33,32.78
+ORD-10064,2025-03-22,Backpack,Accessories,North,Consumer,Online,2,83.97,0.05,146.78,78.47,68.31
+ORD-10065,2025-08-06,Desk Lamp,Furniture,North,Consumer,B2B Sales,1,53.97,0.1,44.69,24.09,20.6
+ORD-10066,2025-09-02,Bookshelf,Furniture,West,Consumer,B2B Sales,1,185.76,0.05,194.12,98.14,95.98
+ORD-10067,2025-12-08,File Folder Pack,Office Supplies,North-East,Consumer,Online,5,19.64,0.1,110.48,45.06,65.42
+ORD-10068,2025-08-18,Stapler,Office Supplies,West,Consumer,B2B Sales,6,17.91,0.05,112.3,48.07,64.23
+ORD-10069,2024-08-24,Monitor,Technology,North,Consumer,Retail Store,2,273.98,0,504.12,344.72,159.4
+ORD-10070,2025-08-26,Backpack,Accessories,West,Consumer,Online,4,84.12,0.05,351.62,152.18,199.44
+ORD-10071,2025-12-26,Printer Paper,Office Supplies,Central,Small Business,Retail Store,3,15.36,0.1,61.17,20.73,40.44
+ORD-10072,2024-01-13,Desk Organizer,Office Supplies,North-East,Consumer,Online,1,24.63,0.15,20.94,10.87,10.07
+ORD-10073,2024-03-07,Notebook,Office Supplies,West,Corporate,Online,4,8.33,0.2,29.32,11.83,17.49
+ORD-10074,2024-09-11,Mouse,Technology,West,Corporate,Retail Store,3,39.92,0.15,111.98,54.04,57.94
+ORD-10075,2025-08-25,Phone Charger,Accessories,West,Corporate,Retail Store,3,31.64,0,104.41,35.81,68.6
+ORD-10076,2025-11-07,Monitor,Technology,East,Corporate,Online,1,288.1,0.05,359.22,166.99,192.23
+ORD-10077,2024-10-22,Desk Lamp,Furniture,Central,Corporate,B2B Sales,3,56.24,0.1,179.18,75.27,103.91
+ORD-10078,2025-03-11,Monitor,Technology,East,Small Business,B2B Sales,1,273.45,0,287.12,175.51,111.61
+ORD-10079,2025-08-05,Power Bank,Accessories,Central,Consumer,Online,7,57.98,0.05,454.97,184.65,270.32
+ORD-10080,2024-03-23,Desk Organizer,Office Supplies,North,Corporate,Online,5,26.4,0.15,103.22,56.11,47.11
+ORD-10081,2024-01-22,Phone Charger,Accessories,West,Consumer,Retail Store,8,30.36,0.05,253.81,95.95,157.86
+ORD-10082,2025-08-22,Desk Organizer,Office Supplies,Central,Consumer,Online,6,25.68,0.15,154.54,66.2,88.34
+ORD-10083,2025-12-11,File Folder Pack,Office Supplies,North-East,Small Business,Retail Store,9,19.38,0,218.02,80.04,137.98
+ORD-10084,2025-02-17,Laptop Stand,Accessories,West,Consumer,Online,6,46.0,0.05,288.42,121.31,167.11
+ORD-10085,2024-02-22,Headset,Technology,East,Small Business,Online,2,92.35,0.2,155.15,92.04,63.11
+ORD-10086,2024-09-02,Bookshelf,Furniture,West,Consumer,Online,1,187.95,0,206.75,99.4,107.35
+ORD-10087,2025-10-25,Power Bank,Accessories,North,Consumer,Online,8,58.19,0,428.28,211.87,216.41
+ORD-10088,2025-01-27,Headset,Technology,West,Corporate,Online,1,98.54,0.15,92.13,45.17,46.96
+ORD-10089,2025-06-03,Laptop,Technology,North,Corporate,B2B Sales,3,974.69,0.15,2286.62,1880.94,405.68
+ORD-10090,2025-05-10,Stapler,Office Supplies,West,Consumer,B2B Sales,4,19.05,0,83.82,32.22,51.6
+ORD-10091,2025-02-24,Webcam,Technology,North-East,Corporate,Retail Store,1,112.9,0.15,95.97,60.82,35.15
+ORD-10092,2025-05-22,USB-C Hub,Accessories,West,Small Business,Online,2,68.08,0.05,142.29,61.01,81.28
+ORD-10093,2025-04-12,Monitor,Technology,North-East,Small Business,B2B Sales,1,290.68,0,290.68,174.02,116.66
+ORD-10094,2025-02-11,Bookshelf,Furniture,West,Consumer,Online,2,186.47,0.15,348.7,186.68,162.02
+ORD-10095,2024-03-11,Webcam,Technology,North,Small Business,Retail Store,1,106.68,0.1,88.33,60.38,27.95
+ORD-10096,2025-03-30,Keyboard,Technology,Central,Consumer,Retail Store,1,74.81,0,88.28,38.65,49.63
+ORD-10097,2025-08-02,Standing Desk,Furniture,East,Consumer,Retail Store,1,534.72,0.05,533.38,316.45,216.93
+ORD-10098,2024-08-25,Printer Paper,Office Supplies,North-East,Consumer,Online,8,15.75,0.1,113.4,55.5,57.9
+ORD-10099,2025-03-28,Backpack,Accessories,North,Corporate,Online,7,85.48,0,550.49,279.29,271.2
+ORD-10100,2025-05-09,Mouse,Technology,West,Consumer,Online,2,38.49,0.15,71.98,36.28,35.7
+ORD-10101,2024-01-09,File Folder Pack,Office Supplies,Central,Small Business,Retail Store,6,20.75,0,146.91,55.95,90.96
+ORD-10102,2024-08-12,Drawer Cabinet,Furniture,North,Corporate,Retail Store,1,167.01,0.1,138.28,91.8,46.48
+ORD-10103,2025-10-23,Mouse,Technology,Central,Corporate,Retail Store,1,39.58,0.1,42.03,17.86,24.17
+ORD-10104,2024-05-15,Bookshelf,Furniture,West,Consumer,Online,1,189.25,0.2,166.54,99.53,67.01
+ORD-10105,2024-10-29,Bookshelf,Furniture,Central,Consumer,Online,2,176.86,0.1,375.65,195.17,180.48
+ORD-10106,2025-02-10,Backpack,Accessories,North,Consumer,Online,5,86.16,0.05,376.52,195.15,181.37
+ORD-10107,2025-11-19,Mouse,Technology,North,Consumer,Online,1,41.94,0.05,45.82,18.79,27.03
+ORD-10108,2024-08-14,Desk Lamp,Furniture,North,Corporate,Online,1,53.0,0.2,39.01,23.72,15.29
+ORD-10109,2024-08-28,USB-C Hub,Accessories,North-East,Consumer,Retail Store,7,66.22,0.1,417.19,218.82,198.37
+ORD-10110,2025-11-01,Mouse,Technology,West,Consumer,B2B Sales,1,39.88,0.05,52.09,18.84,33.25
+ORD-10111,2025-01-06,Webcam,Technology,North,Corporate,B2B Sales,1,109.98,0,101.18,57.34,43.84
+ORD-10112,2025-04-10,Monitor,Technology,West,Small Business,Online,1,296.49,0.1,293.53,169.04,124.49
+ORD-10113,2025-07-21,Monitor,Technology,East,Consumer,Online,3,268.88,0.15,791.92,504.97,286.95
+ORD-10114,2024-05-13,Pen Set,Office Supplies,Central,Corporate,Online,1,11.95,0.1,12.69,4.08,8.61
+ORD-10115,2024-01-17,Laptop,Technology,East,Corporate,Retail Store,3,957.24,0.1,2713.78,1889.62,824.16
+ORD-10116,2024-04-21,Pen Set,Office Supplies,West,Consumer,Retail Store,5,12.07,0.2,53.11,19.69,33.42
+ORD-10117,2025-05-05,Power Bank,Accessories,Central,Consumer,B2B Sales,2,57.75,0,136.29,51.5,84.79
+ORD-10118,2024-05-09,Webcam,Technology,West,Corporate,Online,5,111.44,0.05,582.27,296.49,285.78
+ORD-10119,2024-04-11,Office Chair,Furniture,West,Corporate,Online,1,216.23,0,237.85,126.47,111.38
+ORD-10120,2025-03-01,Bookshelf,Furniture,North-East,Consumer,Online,3,185.16,0.05,527.71,281.12,246.59
+ORD-10121,2024-03-28,Laptop,Technology,North,Small Business,Retail Store,2,965.35,0,1776.24,1225.81,550.43
+ORD-10122,2024-12-28,Power Bank,Accessories,Central,Small Business,Retail Store,7,53.37,0.05,523.49,180.33,343.16
+ORD-10123,2025-05-08,Laptop,Technology,North,Small Business,Online,2,966.54,0.15,1511.67,1288.56,223.11
+ORD-10124,2025-09-28,Drawer Cabinet,Furniture,Central,Corporate,Retail Store,3,154.06,0,545.37,272.81,272.56
+ORD-10125,2024-12-13,Pen Set,Office Supplies,East,Corporate,Online,4,12.41,0.2,52.12,15.78,36.34
+ORD-10126,2025-06-27,Mouse,Technology,North-East,Consumer,Online,2,41.51,0.05,78.87,35.49,43.38
+ORD-10127,2024-02-23,Headset,Technology,Central,Corporate,Online,3,95.81,0.05,322.21,134.88,187.33
+ORD-10128,2025-06-08,Mouse,Technology,Central,Consumer,Retail Store,1,41.07,0,48.46,18.14,30.32
+ORD-10129,2025-09-05,Monitor,Technology,North,Small Business,Retail Store,2,276.9,0,509.5,345.04,164.46
+ORD-10130,2025-03-16,Mouse,Technology,West,Corporate,Retail Store,4,41.62,0,183.13,74.9,108.23
+ORD-10131,2024-02-13,Desk Organizer,Office Supplies,Central,Small Business,Retail Store,8,25.77,0.05,231.11,86.95,144.16
+ORD-10132,2024-01-22,USB-C Hub,Accessories,West,Consumer,Retail Store,6,62.97,0.15,353.26,179.47,173.79
+ORD-10133,2025-08-26,Notebook,Office Supplies,North-East,Small Business,Retail Store,5,7.95,0,39.75,15.24,24.51
+ORD-10134,2024-04-26,Pen Set,Office Supplies,North,Consumer,B2B Sales,3,11.8,0,32.57,11.93,20.64
+ORD-10135,2025-09-08,Webcam,Technology,Central,Consumer,Retail Store,1,113.9,0.1,120.96,58.66,62.3
+ORD-10136,2025-08-01,Drawer Cabinet,Furniture,North,Small Business,Retail Store,1,154.69,0.05,135.2,88.11,47.09
+ORD-10137,2024-10-08,Printer Paper,Office Supplies,West,Consumer,Online,1,14.49,0.15,13.55,6.9,6.65
+ORD-10138,2024-04-02,Drawer Cabinet,Furniture,North-East,Consumer,Retail Store,2,167.93,0.05,319.07,182.46,136.61
+ORD-10139,2025-10-29,Headset,Technology,North-East,Consumer,B2B Sales,1,98.9,0.15,84.06,47.19,36.87
+ORD-10140,2024-03-27,Pen Set,Office Supplies,Central,Consumer,Online,8,12.15,0.1,103.23,32.18,71.05
+ORD-10141,2024-10-16,Printer Paper,Office Supplies,West,Consumer,Retail Store,6,14.5,0,95.7,43.15,52.55
+ORD-10142,2024-10-17,Webcam,Technology,West,Small Business,Online,2,107.16,0.05,223.96,121.54,102.42
+ORD-10143,2025-12-16,Standing Desk,Furniture,West,Corporate,Online,1,532.66,0,732.41,306.57,425.84
+ORD-10144,2025-12-20,Backpack,Accessories,Central,Corporate,Online,8,81.75,0,964.65,318.16,646.49
+ORD-10145,2024-12-15,Power Bank,Accessories,East,Consumer,Online,2,54.43,0.1,128.59,52.81,75.78
+ORD-10146,2025-07-06,Backpack,Accessories,Central,Corporate,B2B Sales,4,86.68,0,450.04,150.88,299.16
+ORD-10147,2025-12-10,Standing Desk,Furniture,North-East,Consumer,Online,2,549.62,0.1,1236.64,640.25,596.39
+ORD-10148,2025-04-04,Monitor,Technology,North,Small Business,Retail Store,3,274.23,0.1,681.19,520.16,161.03
+ORD-10149,2025-03-27,Printer Paper,Office Supplies,North-East,Consumer,Online,3,15.63,0.15,39.86,20.78,19.08
+ORD-10150,2024-09-13,Mouse,Technology,North,Corporate,Online,4,41.8,0,153.82,74.41,79.41
+ORD-10151,2024-10-06,Stapler,Office Supplies,East,Small Business,Online,5,18.75,0.15,83.67,41.81,41.86
+ORD-10152,2025-02-28,Headset,Technology,North,Consumer,B2B Sales,1,91.47,0.15,71.53,46.74,24.79
+ORD-10153,2025-10-27,Pen Set,Office Supplies,East,Consumer,B2B Sales,8,12.36,0,103.82,32.94,70.88
+ORD-10154,2025-04-04,Office Chair,Furniture,Central,Consumer,B2B Sales,1,227.2,0.05,254.69,123.47,131.22
+ORD-10155,2024-10-22,Laptop,Technology,Central,Consumer,Retail Store,2,917.97,0.15,1841.45,1258.59,582.86
+ORD-10156,2025-07-02,Headset,Technology,West,Consumer,Online,1,97.04,0,117.42,45.41,72.01
+ORD-10157,2025-11-11,Drawer Cabinet,Furniture,North,Consumer,Retail Store,1,169.41,0.05,185.08,88.65,96.43
+ORD-10158,2025-04-26,Mouse,Technology,North,Consumer,Online,2,39.78,0.1,65.88,36.86,29.02
+ORD-10159,2025-08-18,Bookshelf,Furniture,East,Consumer,Retail Store,2,175.95,0.1,332.55,192.38,140.17
+ORD-10160,2025-12-13,Pen Set,Office Supplies,East,Consumer,Retail Store,8,11.56,0,121.38,33.13,88.25
+ORD-10161,2024-02-12,Keyboard,Technology,West,Consumer,Retail Store,1,72.27,0.1,71.55,38.0,33.55
+ORD-10162,2024-02-18,Phone Charger,Accessories,North,Consumer,Online,7,31.03,0.15,169.86,84.59,85.27
+ORD-10163,2024-07-10,Desk Organizer,Office Supplies,North,Small Business,Retail Store,2,25.82,0,52.26,22.49,29.77
+ORD-10164,2024-07-03,Printer Paper,Office Supplies,Central,Consumer,Retail Store,5,15.07,0.1,88.02,34.71,53.31
+ORD-10165,2025-03-30,Notebook,Office Supplies,North,Corporate,Online,1,7.74,0.1,6.41,3.02,3.39
+ORD-10166,2025-11-26,Laptop,Technology,East,Small Business,Retail Store,1,923.99,0,1212.74,635.6,577.14
+ORD-10167,2025-01-05,Stapler,Office Supplies,Central,Corporate,Retail Store,8,17.95,0.1,152.5,65.29,87.21
+ORD-10168,2025-06-26,Printer Paper,Office Supplies,North,Consumer,Online,3,15.15,0.05,39.72,21.41,18.31
+ORD-10169,2024-09-25,Desk Lamp,Furniture,East,Small Business,Online,2,55.5,0,116.55,49.91,66.64
+ORD-10170,2025-04-07,Webcam,Technology,North-East,Small Business,Retail Store,5,116.45,0.1,524.02,298.6,225.42
+ORD-10171,2025-07-17,Printer Paper,Office Supplies,East,Corporate,B2B Sales,4,15.59,0.05,68.42,27.68,40.74
+ORD-10172,2024-07-24,Standing Desk,Furniture,North-East,Consumer,Retail Store,1,540.99,0.05,565.33,317.08,248.25
+ORD-10173,2024-03-29,Mouse,Technology,North-East,Corporate,Retail Store,3,38.7,0.2,92.88,55.35,37.53
+ORD-10174,2025-04-05,Stapler,Office Supplies,North,Consumer,B2B Sales,3,18.66,0,51.5,24.36,27.14
+ORD-10175,2024-02-26,Backpack,Accessories,East,Consumer,Online,4,84.54,0.2,284.05,158.48,125.57
+ORD-10176,2024-03-21,Webcam,Technology,West,Consumer,Retail Store,2,106.63,0.1,211.13,118.49,92.64
+ORD-10177,2025-08-17,Webcam,Technology,West,Corporate,Retail Store,4,111.8,0.15,418.13,227.82,190.31
+ORD-10178,2024-02-16,Backpack,Accessories,North,Corporate,Retail Store,9,86.85,0,719.12,356.44,362.68
+ORD-10179,2025-07-12,Keyboard,Technology,North-East,Consumer,Retail Store,1,75.4,0.1,74.65,37.66,36.99
+ORD-10180,2025-03-01,Pen Set,Office Supplies,North,Corporate,Online,8,12.4,0.15,77.57,33.54,44.03
+ORD-10181,2024-05-13,Drawer Cabinet,Furniture,West,Consumer,Online,1,160.79,0,176.87,86.55,90.32
+ORD-10182,2025-01-28,Power Bank,Accessories,East,Small Business,B2B Sales,7,57.94,0.1,383.27,180.78,202.49
+ORD-10183,2024-06-12,Stapler,Office Supplies,North-East,Consumer,Online,1,17.44,0.05,16.57,8.1,8.47
+ORD-10184,2024-09-03,Keyboard,Technology,Central,Consumer,Retail Store,3,76.91,0.05,258.65,116.0,142.65
+ORD-10185,2024-04-20,Printer Paper,Office Supplies,North,Corporate,Online,9,14.48,0.05,113.9,63.34,50.56
+ORD-10186,2024-10-22,Headset,Technology,North-East,Corporate,Online,5,97.66,0,488.3,235.86,252.44
+ORD-10187,2025-02-07,Printer Paper,Office Supplies,West,Small Business,Retail Store,5,15.3,0.05,79.94,34.4,45.54
+ORD-10188,2024-02-09,Keyboard,Technology,North-East,Consumer,Online,3,73.05,0.15,186.28,114.26,72.02
+ORD-10189,2025-02-06,Phone Charger,Accessories,West,Consumer,B2B Sales,8,30.93,0,272.18,99.56,172.62
+ORD-10190,2025-01-12,Notebook,Office Supplies,North-East,Corporate,Retail Store,1,8.16,0,8.16,3.08,5.08
+ORD-10191,2025-08-15,File Folder Pack,Office Supplies,Central,Corporate,Online,9,19.5,0.1,186.38,79.56,106.82
+ORD-10192,2025-12-18,Laptop,Technology,North-East,Consumer,Online,2,950.99,0.1,2139.73,1295.1,844.63
+ORD-10193,2024-03-04,Drawer Cabinet,Furniture,East,Corporate,B2B Sales,1,159.63,0.2,134.09,89.07,45.02
+ORD-10194,2025-06-29,Printer Paper,Office Supplies,North,Corporate,Online,5,14.82,0,68.17,36.61,31.56
+ORD-10195,2024-10-31,Standing Desk,Furniture,North-East,Consumer,Online,3,540.56,0,1621.68,919.33,702.35
+ORD-10196,2025-11-23,Desk Organizer,Office Supplies,North,Small Business,Retail Store,6,24.11,0.2,133.09,65.05,68.04
+ORD-10197,2025-03-28,Desk Lamp,Furniture,East,Consumer,Retail Store,3,56.63,0,178.38,73.66,104.72
+ORD-10198,2025-08-23,Laptop,Technology,West,Consumer,Online,1,943.38,0.05,985.83,637.16,348.67
+ORD-10199,2024-05-20,Headset,Technology,East,Consumer,B2B Sales,3,95.74,0,301.58,141.41,160.17
+ORD-10200,2024-11-24,Laptop,Technology,Central,Corporate,Online,3,992.78,0,4393.05,1942.78,2450.27
+ORD-10201,2025-03-03,USB-C Hub,Accessories,Central,Small Business,Online,9,63.61,0.1,607.98,281.09,326.89
+ORD-10202,2024-10-23,Laptop Stand,Accessories,North,Corporate,Online,8,44.48,0.2,261.9,162.88,99.02
+ORD-10203,2025-05-20,USB-C Hub,Accessories,West,Consumer,Online,2,64.55,0.1,127.81,61.52,66.29
+ORD-10204,2024-07-09,Keyboard,Technology,North,Corporate,Retail Store,1,78.42,0.15,67.46,39.44,28.02
+ORD-10205,2025-06-11,Desk Organizer,Office Supplies,Central,Consumer,Online,6,26.34,0,186.49,66.45,120.04
+ORD-10206,2025-04-02,Bookshelf,Furniture,North,Corporate,Retail Store,1,179.27,0,164.93,97.54,67.39
+ORD-10207,2025-04-21,Mouse,Technology,West,Small Business,B2B Sales,2,41.16,0.1,81.5,37.65,43.85
+ORD-10208,2025-01-11,Standing Desk,Furniture,East,Consumer,Online,3,518.63,0.1,1470.32,970.82,499.5
+ORD-10209,2025-07-04,Standing Desk,Furniture,East,Corporate,Retail Store,3,526.53,0.05,1733.21,934.95,798.26
+ORD-10210,2025-07-31,Headset,Technology,West,Consumer,Retail Store,1,99.32,0.05,114.17,46.24,67.93
+ORD-10211,2025-08-20,Stapler,Office Supplies,North-East,Small Business,Online,8,18.1,0,144.8,64.79,80.01
+ORD-10212,2024-11-11,Desk Lamp,Furniture,North,Small Business,Retail Store,1,53.05,0.05,57.96,23.63,34.33
+ORD-10213,2024-03-02,Laptop Stand,Accessories,North-East,Consumer,Online,3,46.65,0.2,111.96,61.51,50.45
+ORD-10214,2025-03-06,Desk Organizer,Office Supplies,North-East,Small Business,B2B Sales,8,24.2,0.2,154.88,91.63,63.25
+ORD-10215,2024-05-16,Bookshelf,Furniture,Central,Consumer,Retail Store,1,185.9,0,219.36,93.12,126.24
+ORD-10216,2024-01-24,Power Bank,Accessories,West,Consumer,Online,4,54.16,0.05,226.39,103.93,122.46
+ORD-10217,2024-04-25,Webcam,Technology,North-East,Corporate,B2B Sales,4,108.25,0,433.0,237.01,195.99
+ORD-10218,2025-04-02,File Folder Pack,Office Supplies,Central,Consumer,Online,8,19.67,0,185.68,74.91,110.77
+ORD-10219,2024-02-27,Keyboard,Technology,East,Small Business,Retail Store,1,76.48,0.1,72.27,38.09,34.18
+ORD-10220,2024-11-05,Backpack,Accessories,East,Consumer,Online,3,86.92,0.05,325.14,115.68,209.46
+ORD-10221,2024-12-18,Power Bank,Accessories,West,Consumer,Online,3,54.45,0,224.61,79.38,145.23
+ORD-10222,2024-09-03,Phone Charger,Accessories,East,Small Business,B2B Sales,8,31.7,0.05,252.97,94.98,157.99
+ORD-10223,2024-09-05,Keyboard,Technology,Central,Small Business,B2B Sales,1,77.43,0,91.37,37.95,53.42
+ORD-10224,2025-11-20,Office Chair,Furniture,Central,Consumer,Retail Store,2,223.49,0.05,626.33,260.22,366.11
+ORD-10225,2024-12-06,Laptop,Technology,East,Small Business,B2B Sales,1,1006.96,0.05,1255.55,618.13,637.42
+ORD-10226,2025-09-10,Desk Lamp,Furniture,East,Corporate,Retail Store,1,55.74,0.05,55.6,23.96,31.64
+ORD-10227,2025-06-09,Power Bank,Accessories,Central,Small Business,Retail Store,7,57.83,0.05,453.79,183.63,270.16
+ORD-10228,2025-07-30,USB-C Hub,Accessories,Central,Consumer,B2B Sales,7,64.32,0,584.41,209.18,375.23
+ORD-10229,2025-08-06,Power Bank,Accessories,West,Corporate,Retail Store,7,57.0,0.05,416.95,187.58,229.37
+ORD-10230,2025-05-17,File Folder Pack,Office Supplies,North,Consumer,Retail Store,8,19.57,0.15,122.43,75.55,46.88
+ORD-10231,2024-03-01,Notebook,Office Supplies,Central,Corporate,Online,5,7.73,0,45.61,14.93,30.68
+ORD-10232,2025-04-11,Stapler,Office Supplies,West,Small Business,Retail Store,1,17.29,0.05,18.07,7.85,10.22
+ORD-10233,2025-06-26,Drawer Cabinet,Furniture,North,Consumer,Retail Store,1,166.5,0.15,130.2,86.9,43.3
+ORD-10234,2024-04-08,Pen Set,Office Supplies,East,Corporate,Online,8,11.84,0.05,94.48,32.2,62.28
+ORD-10235,2025-02-19,Pen Set,Office Supplies,East,Consumer,B2B Sales,2,12.3,0.15,21.96,8.27,13.69
+ORD-10236,2024-04-05,Desk Organizer,Office Supplies,West,Consumer,Retail Store,3,24.21,0.15,67.91,33.83,34.08
+ORD-10237,2024-12-05,Notebook,Office Supplies,West,Small Business,Online,9,7.9,0.15,83.1,27.75,55.35
+ORD-10238,2024-10-14,Backpack,Accessories,Central,Consumer,B2B Sales,1,89.77,0.1,95.34,39.24,56.1
+ORD-10239,2025-12-30,Laptop Stand,Accessories,North,Consumer,Online,7,46.25,0.05,353.7,140.96,212.74
+ORD-10240,2024-05-23,Office Chair,Furniture,West,Corporate,Online,1,216.31,0,237.94,127.8,110.14
+ORD-10241,2025-09-20,Power Bank,Accessories,North,Consumer,Online,8,55.5,0.05,388.06,217.54,170.52
+ORD-10242,2025-03-18,Headset,Technology,North-East,Consumer,Retail Store,2,97.97,0,195.94,89.17,106.77
+ORD-10243,2025-12-29,Standing Desk,Furniture,North-East,Consumer,Online,1,515.23,0.05,611.84,309.65,302.19
+ORD-10244,2024-05-15,Mouse,Technology,North-East,Corporate,Retail Store,1,38.76,0.05,36.82,18.39,18.43
+ORD-10245,2024-11-28,Laptop Stand,Accessories,North,Consumer,Retail Store,4,45.77,0,210.54,80.53,130.01
+ORD-10246,2024-05-22,Keyboard,Technology,North-East,Consumer,Online,1,74.25,0.1,66.83,38.2,28.63
+ORD-10247,2024-09-09,Desk Lamp,Furniture,West,Corporate,Online,1,52.84,0.05,55.22,24.93,30.29
+ORD-10248,2025-01-24,Bookshelf,Furniture,North-East,Consumer,Retail Store,2,190.34,0,380.68,190.46,190.22
+ORD-10249,2025-12-12,Keyboard,Technology,East,Small Business,B2B Sales,1,77.21,0.05,96.27,38.77,57.5
+ORD-10250,2024-09-05,Printer Paper,Office Supplies,North-East,Consumer,B2B Sales,4,15.29,0.05,58.1,28.78,29.32
+ORD-10251,2025-07-17,Webcam,Technology,North-East,Small Business,Online,2,114.74,0,252.43,120.56,131.87
+ORD-10252,2025-02-22,Standing Desk,Furniture,North,Consumer,Retail Store,2,540.23,0,994.02,650.6,343.42
+ORD-10253,2025-05-05,Stapler,Office Supplies,West,Small Business,B2B Sales,8,18.26,0.1,144.62,64.33,80.29
+ORD-10254,2025-07-03,Notebook,Office Supplies,Central,Corporate,Retail Store,8,7.81,0.1,72.99,24.47,48.52
+ORD-10255,2025-10-22,Desk Lamp,Furniture,North,Small Business,Online,1,54.22,0.05,47.39,24.39,23.0
+ORD-10256,2025-08-17,Standing Desk,Furniture,North-East,Consumer,Online,1,535.1,0,535.1,325.45,209.65
+ORD-10257,2025-05-09,Mouse,Technology,Central,Consumer,B2B Sales,1,39.65,0.05,44.45,17.9,26.55
+ORD-10258,2025-05-09,Notebook,Office Supplies,North-East,Corporate,Online,3,7.92,0.15,20.2,8.89,11.31
+ORD-10259,2024-12-17,Standing Desk,Furniture,East,Consumer,Retail Store,1,521.37,0.05,650.08,321.11,328.97
+ORD-10260,2025-10-06,Webcam,Technology,North-East,Consumer,Retail Store,3,110.55,0.05,315.07,170.57,144.5
+ORD-10261,2024-08-07,Webcam,Technology,Central,Corporate,Retail Store,1,109.62,0,129.35,57.3,72.05
+ORD-10262,2025-11-17,Backpack,Accessories,North,Corporate,Retail Store,3,84.56,0.15,247.97,116.65,131.32
+ORD-10263,2025-11-20,Bookshelf,Furniture,West,Corporate,Retail Store,1,177.09,0,243.5,95.58,147.92
+ORD-10264,2024-05-24,Desk Organizer,Office Supplies,West,Consumer,Online,3,25.22,0.05,79.06,34.46,44.6
+ORD-10265,2024-06-26,Desk Organizer,Office Supplies,North,Consumer,Online,8,25.55,0.15,159.84,92.1,67.74
+ORD-10266,2025-05-11,Mouse,Technology,West,Consumer,Retail Store,2,40.06,0.15,74.91,36.51,38.4
+ORD-10267,2024-03-25,Pen Set,Office Supplies,North,Consumer,Online,5,11.72,0.05,51.22,20.64,30.58
+ORD-10268,2025-05-22,Notebook,Office Supplies,West,Consumer,Retail Store,6,8.11,0.1,48.17,18.6,29.57
+ORD-10269,2025-03-27,Desk Organizer,Office Supplies,Central,Corporate,Retail Store,5,24.74,0.2,116.77,55.63,61.14
+ORD-10270,2024-12-22,Laptop Stand,Accessories,North-East,Small Business,Online,5,44.14,0.1,248.29,102.82,145.47
+ORD-10271,2025-12-28,Desk Lamp,Furniture,East,Corporate,Retail Store,3,57.23,0.05,214.08,73.24,140.84
+ORD-10272,2025-09-03,Printer Paper,Office Supplies,North,Consumer,Online,2,14.6,0.1,24.18,14.12,10.06
+ORD-10273,2024-03-01,USB-C Hub,Accessories,East,Consumer,Retail Store,4,67.35,0.1,254.58,121.71,132.87
+ORD-10274,2025-08-14,Desk Lamp,Furniture,North-East,Consumer,Retail Store,2,53.31,0.05,101.29,47.97,53.32
+ORD-10275,2025-01-12,Desk Organizer,Office Supplies,North,Corporate,B2B Sales,3,25.83,0.05,67.73,33.87,33.86
+ORD-10276,2025-01-01,Backpack,Accessories,North-East,Consumer,Online,4,85.81,0,343.24,151.98,191.26
+ORD-10277,2025-07-14,Stapler,Office Supplies,North-East,Corporate,B2B Sales,1,17.36,0.1,17.19,8.31,8.88
+ORD-10278,2024-01-17,Monitor,Technology,North-East,Consumer,B2B Sales,1,296.68,0.15,252.18,177.1,75.08
+ORD-10279,2024-11-05,Keyboard,Technology,Central,Corporate,Online,1,78.78,0,116.2,38.29,77.91
+ORD-10280,2024-11-08,Standing Desk,Furniture,North-East,Corporate,Retail Store,1,523.99,0,654.99,308.71,346.28
+ORD-10281,2025-11-27,Notebook,Office Supplies,North,Small Business,B2B Sales,8,8.24,0.05,72.02,23.9,48.12
+ORD-10282,2024-04-01,Office Chair,Furniture,Central,Consumer,B2B Sales,1,228.22,0.1,242.37,123.67,118.7
+ORD-10283,2025-11-24,Headset,Technology,West,Consumer,Retail Store,1,98.06,0.1,121.35,44.58,76.77
+ORD-10284,2025-02-25,Desk Lamp,Furniture,East,Consumer,Online,2,56.04,0.05,111.8,50.28,61.52
+ORD-10285,2024-11-18,Standing Desk,Furniture,North,Corporate,Online,1,536.7,0,617.21,324.23,292.98
+ORD-10286,2024-01-28,Phone Charger,Accessories,East,Consumer,Retail Store,7,29.69,0,218.22,87.6,130.62
+ORD-10287,2024-09-02,Notebook,Office Supplies,East,Consumer,Retail Store,1,8.47,0.15,7.56,2.97,4.59
+ORD-10288,2025-08-05,Stapler,Office Supplies,East,Corporate,B2B Sales,3,17.31,0,54.53,23.96,30.57
+ORD-10289,2024-02-10,Power Bank,Accessories,West,Consumer,Retail Store,7,55.13,0.05,403.28,186.52,216.76
+ORD-10290,2025-07-04,Bookshelf,Furniture,Central,Consumer,Retail Store,1,187.35,0.05,231.02,95.7,135.32
+ORD-10291,2025-10-11,Office Chair,Furniture,North,Corporate,Retail Store,3,212.47,0,586.42,378.91,207.51
+ORD-10292,2025-04-09,Office Chair,Furniture,North,Corporate,Retail Store,1,211.48,0,194.56,122.6,71.96
+ORD-10293,2025-05-23,Backpack,Accessories,West,Corporate,Retail Store,4,84.76,0.1,335.65,158.25,177.4
+ORD-10294,2024-04-30,Office Chair,Furniture,North,Small Business,Online,1,226.87,0.05,198.28,123.17,75.11
+ORD-10295,2025-04-11,Notebook,Office Supplies,North-East,Small Business,Online,3,7.88,0,23.64,9.18,14.46
+ORD-10296,2024-04-28,Headset,Technology,Central,Consumer,B2B Sales,1,95.68,0.05,107.26,44.57,62.69
+ORD-10297,2024-02-06,File Folder Pack,Office Supplies,North-East,Consumer,Online,6,19.74,0,118.44,54.33,64.11
+ORD-10298,2025-05-29,Office Chair,Furniture,East,Consumer,Retail Store,1,220.02,0.15,196.37,130.08,66.29
+ORD-10299,2024-11-14,Stapler,Office Supplies,North-East,Consumer,Online,5,18.61,0,116.31,40.23,76.08
+ORD-10300,2025-05-20,USB-C Hub,Accessories,West,Corporate,Online,1,68.46,0,75.31,30.54,44.77
+ORD-10301,2025-10-13,Laptop Stand,Accessories,North,Consumer,Retail Store,5,43.67,0.05,190.84,99.67,91.17
+ORD-10302,2025-05-18,USB-C Hub,Accessories,North,Consumer,B2B Sales,7,66.96,0.05,409.66,220.13,189.53
+ORD-10303,2024-03-27,Stapler,Office Supplies,East,Corporate,Online,1,18.06,0.2,15.17,7.97,7.2
+ORD-10304,2024-09-24,Power Bank,Accessories,North,Consumer,Online,2,57.99,0,106.7,53.76,52.94
+ORD-10305,2024-04-21,Monitor,Technology,North-East,Consumer,Online,1,295.81,0,295.81,170.27,125.54
+ORD-10306,2024-09-28,Laptop Stand,Accessories,East,Small Business,Online,1,44.17,0.15,39.42,19.81,19.61
+ORD-10307,2025-12-29,Keyboard,Technology,North-East,Consumer,Retail Store,1,79.43,0,99.29,38.32,60.97
+ORD-10308,2025-04-08,Stapler,Office Supplies,East,Consumer,Online,3,17.5,0,55.12,24.83,30.29
+ORD-10309,2024-08-15,Mouse,Technology,North,Corporate,B2B Sales,1,40.74,0.15,31.86,17.73,14.13
+ORD-10310,2024-03-07,Webcam,Technology,North-East,Small Business,Online,3,114.5,0,343.5,182.0,161.5
+ORD-10311,2024-02-21,Headset,Technology,North-East,Small Business,Online,1,97.69,0,97.69,44.78,52.91
+ORD-10312,2024-07-10,Mouse,Technology,East,Consumer,Retail Store,1,39.58,0.05,43.43,18.33,25.1
+ORD-10313,2024-03-03,Mouse,Technology,East,Consumer,Retail Store,2,39.4,0.2,66.19,36.65,29.54
+ORD-10314,2024-01-20,Phone Charger,Accessories,North-East,Corporate,Retail Store,8,29.97,0,239.76,96.22,143.54
+ORD-10315,2024-08-12,Keyboard,Technology,Central,Small Business,Online,1,76.38,0,90.13,37.66,52.47
+ORD-10316,2024-09-10,Bookshelf,Furniture,West,Small Business,B2B Sales,1,190.74,0,209.81,98.73,111.08
+ORD-10317,2025-02-01,Pen Set,Office Supplies,East,Consumer,Online,6,12.62,0,79.51,24.7,54.81
+ORD-10318,2025-08-04,Stapler,Office Supplies,East,Small Business,Retail Store,9,18.26,0,172.56,70.75,101.81
+ORD-10319,2024-02-27,Monitor,Technology,Central,Corporate,Online,4,274.44,0,1295.36,700.53,594.83
+ORD-10320,2024-11-27,Monitor,Technology,West,Corporate,Online,1,283.54,0.05,370.37,167.46,202.91
+ORD-10321,2025-12-22,Power Bank,Accessories,West,Consumer,Online,3,58.17,0.1,215.96,78.83,137.13
+ORD-10322,2025-10-16,Phone Charger,Accessories,East,Corporate,Retail Store,8,29.47,0.1,222.79,95.26,127.53
+ORD-10323,2024-11-10,Bookshelf,Furniture,East,Consumer,Online,2,183.11,0.15,408.56,196.45,212.11
+ORD-10324,2025-08-04,Headset,Technology,North,Small Business,B2B Sales,1,96.57,0.15,75.52,44.54,30.98
+ORD-10325,2024-03-20,Keyboard,Technology,East,Corporate,B2B Sales,3,77.03,0.1,218.38,114.4,103.98
+ORD-10326,2024-01-12,Monitor,Technology,Central,Consumer,Retail Store,2,270.15,0.05,605.68,343.19,262.49
+ORD-10327,2024-06-19,Power Bank,Accessories,North-East,Consumer,Online,8,57.14,0.05,434.26,214.88,219.38
+ORD-10328,2024-08-18,Laptop,Technology,Central,Consumer,Online,4,919.05,0,4337.92,2495.58,1842.34
+ORD-10329,2024-03-17,Notebook,Office Supplies,North,Corporate,Retail Store,11,8.24,0.05,79.22,33.85,45.37
+ORD-10330,2025-09-13,USB-C Hub,Accessories,Central,Consumer,Online,4,65.06,0.05,291.73,125.37,166.36
+ORD-10331,2025-07-07,Keyboard,Technology,North,Consumer,Online,2,78.3,0,158.48,76.4,82.08
+ORD-10332,2025-03-13,Webcam,Technology,West,Consumer,Online,1,112.62,0.2,99.11,58.76,40.35
+ORD-10333,2024-04-28,Mouse,Technology,North-East,Consumer,Retail Store,1,40.58,0,40.58,18.76,21.82
+ORD-10334,2025-01-13,Laptop,Technology,North,Consumer,Online,3,965.6,0,2665.06,1913.48,751.58
+ORD-10335,2024-04-09,Keyboard,Technology,West,Consumer,Retail Store,1,72.46,0.05,75.72,38.63,37.09
+ORD-10336,2025-07-02,Desk Lamp,Furniture,West,Small Business,Online,1,57.77,0.1,62.91,24.36,38.55
+ORD-10337,2025-06-13,Drawer Cabinet,Furniture,East,Consumer,Retail Store,1,169.35,0.2,142.25,91.22,51.03
+ORD-10338,2024-05-09,Laptop,Technology,North-East,Consumer,B2B Sales,1,968.53,0,968.53,639.16,329.37
+ORD-10339,2024-03-09,Headset,Technology,North-East,Corporate,B2B Sales,1,99.91,0,99.91,46.31,53.6
+ORD-10340,2025-08-24,Desk Organizer,Office Supplies,Central,Consumer,Online,2,26.31,0.05,58.99,21.72,37.27
+ORD-10341,2024-10-19,Phone Charger,Accessories,North-East,Consumer,Retail Store,8,28.91,0,231.28,95.05,136.23
+ORD-10342,2025-09-15,Desk Lamp,Furniture,Central,Consumer,B2B Sales,2,53.07,0.05,118.98,47.94,71.04
+ORD-10343,2025-01-16,Keyboard,Technology,North,Consumer,Retail Store,2,72.74,0.15,113.77,75.19,38.58
+ORD-10344,2025-03-29,Bookshelf,Furniture,North,Corporate,Retail Store,1,180.75,0.15,141.35,95.81,45.54
+ORD-10345,2025-05-11,Bookshelf,Furniture,Central,Consumer,Online,1,181.92,0,214.67,98.76,115.91
+ORD-10346,2025-08-05,Monitor,Technology,East,Small Business,Online,1,294.5,0.1,278.3,169.86,108.44
+ORD-10347,2025-04-20,File Folder Pack,Office Supplies,Central,Corporate,Online,11,20.39,0,264.66,103.05,161.61
+ORD-10348,2025-08-23,Printer Paper,Office Supplies,East,Small Business,Online,2,14.83,0.05,29.59,13.88,15.71
+ORD-10349,2025-08-08,Standing Desk,Furniture,East,Corporate,Retail Store,1,520.49,0,546.51,320.73,225.78
+ORD-10350,2025-11-29,Monitor,Technology,East,Corporate,Online,1,291.34,0,382.38,178.11,204.27
+ORD-10351,2025-10-20,Mouse,Technology,North,Consumer,Online,1,40.48,0.1,33.52,18.38,15.14
+ORD-10352,2024-01-08,File Folder Pack,Office Supplies,North,Corporate,Retail Store,7,19.8,0,127.51,62.02,65.49
+ORD-10353,2024-10-10,Bookshelf,Furniture,North,Corporate,B2B Sales,1,176.19,0.05,153.99,94.7,59.29
+ORD-10354,2024-02-28,Drawer Cabinet,Furniture,North-East,Corporate,Retail Store,3,164.09,0.2,393.82,263.51,130.31
+ORD-10355,2025-03-04,File Folder Pack,Office Supplies,Central,Corporate,B2B Sales,5,19.89,0.1,105.62,46.26,59.36
+ORD-10356,2025-10-15,Bookshelf,Furniture,West,Consumer,Online,1,182.85,0,201.14,96.23,104.91
+ORD-10357,2024-09-21,Drawer Cabinet,Furniture,East,Small Business,B2B Sales,1,157.16,0,165.02,91.61,73.41
+ORD-10358,2025-03-06,Bookshelf,Furniture,North,Consumer,Online,2,181.27,0.15,283.51,193.96,89.55
+ORD-10359,2025-09-27,Monitor,Technology,West,Consumer,Retail Store,1,280.37,0.15,262.15,168.39,93.76
+ORD-10360,2024-07-24,Stapler,Office Supplies,North-East,Consumer,B2B Sales,3,18.68,0.05,58.56,24.58,33.98
+ORD-10361,2024-06-30,Laptop,Technology,Central,Consumer,Online,2,966.75,0,2281.53,1283.36,998.17
+ORD-10362,2024-03-31,Mouse,Technology,North-East,Consumer,B2B Sales,1,38.55,0,38.55,18.11,20.44
+ORD-10363,2024-01-15,Backpack,Accessories,East,Consumer,Online,4,83.52,0.15,298.17,152.28,145.89
+ORD-10364,2024-04-15,Stapler,Office Supplies,North,Consumer,B2B Sales,5,18.99,0.05,82.99,40.66,42.33
+ORD-10365,2025-06-20,File Folder Pack,Office Supplies,East,Consumer,B2B Sales,6,20.7,0,130.41,56.35,74.06
+ORD-10366,2025-02-17,Monitor,Technology,East,Consumer,Online,1,272.25,0.1,257.28,176.03,81.25
+ORD-10367,2025-01-19,Phone Charger,Accessories,West,Corporate,Retail Store,1,30.79,0.1,30.48,11.78,18.7
+ORD-10368,2025-12-07,Mouse,Technology,North-East,Consumer,Online,2,39.22,0.1,88.25,35.3,52.95
+ORD-10369,2025-03-06,Drawer Cabinet,Furniture,North,Corporate,Retail Store,1,167.98,0.05,146.81,90.05,56.76
+ORD-10370,2024-10-16,Laptop,Technology,North-East,Consumer,Online,1,961.7,0,961.7,638.13,323.57
+ORD-10371,2024-10-29,Headset,Technology,North-East,Small Business,Retail Store,1,93.43,0,93.43,44.38,49.05
+ORD-10372,2024-04-23,Power Bank,Accessories,East,Small Business,Retail Store,2,56.78,0,119.24,51.89,67.35
+ORD-10373,2024-08-24,Printer Paper,Office Supplies,North,Consumer,Online,3,15.71,0.15,36.86,21.11,15.75
+ORD-10374,2025-11-24,Webcam,Technology,Central,Consumer,Retail Store,1,114.97,0.1,152.62,57.53,95.09
+ORD-10375,2025-01-01,Backpack,Accessories,North,Small Business,Online,7,83.15,0.05,508.71,278.6,230.11
+ORD-10376,2024-10-05,Power Bank,Accessories,North-East,Corporate,Retail Store,3,53.53,0.1,144.53,81.8,62.73
+ORD-10377,2024-06-12,Headset,Technology,North-East,Small Business,Retail Store,1,94.81,0.05,90.07,44.19,45.88
+ORD-10378,2025-12-01,USB-C Hub,Accessories,North-East,Small Business,Online,8,65.26,0,652.6,246.2,406.4
+ORD-10379,2024-01-13,Drawer Cabinet,Furniture,West,Corporate,Online,4,167.57,0.05,700.44,361.92,338.52
+ORD-10380,2025-09-25,Webcam,Technology,East,Consumer,Retail Store,2,107.24,0.15,191.42,120.92,70.5
+ORD-10381,2025-09-19,Webcam,Technology,East,Consumer,Online,1,107.42,0.1,101.51,58.14,43.37
+ORD-10382,2024-12-04,Laptop Stand,Accessories,West,Consumer,Retail Store,7,46.88,0,451.22,141.55,309.67
+ORD-10383,2025-08-09,Desk Organizer,Office Supplies,North-East,Consumer,B2B Sales,1,24.26,0.05,23.05,11.21,11.84
+ORD-10384,2024-01-01,Backpack,Accessories,West,Corporate,B2B Sales,5,87.16,0.05,455.41,190.73,264.68
+ORD-10385,2024-02-25,Desk Lamp,Furniture,North,Corporate,Retail Store,1,56.41,0.1,46.71,23.71,23.0
+ORD-10386,2025-11-05,Keyboard,Technology,North,Small Business,B2B Sales,1,75.91,0.1,78.57,37.36,41.21
+ORD-10387,2024-06-17,File Folder Pack,Office Supplies,North-East,Consumer,Retail Store,4,19.44,0.15,66.1,35.82,30.28
+ORD-10388,2024-07-14,Office Chair,Furniture,North-East,Consumer,Retail Store,1,213.91,0.15,200.01,126.5,73.51
+ORD-10389,2025-08-26,USB-C Hub,Accessories,North-East,Consumer,Retail Store,7,67.85,0.05,451.2,213.27,237.93
+ORD-10390,2024-06-30,Standing Desk,Furniture,East,Consumer,Retail Store,1,515.94,0.15,460.48,312.89,147.59
+ORD-10391,2025-09-15,USB-C Hub,Accessories,North,Consumer,Online,5,65.34,0,300.56,151.33,149.23
+ORD-10392,2025-12-17,Backpack,Accessories,North,Small Business,Retail Store,7,87.65,0.15,599.75,272.46,327.29
+ORD-10393,2024-07-24,Webcam,Technology,North,Corporate,B2B Sales,1,113.41,0.2,91.82,57.56,34.26
+ORD-10394,2025-07-09,Bookshelf,Furniture,Central,Corporate,Retail Store,1,189.77,0.1,221.69,97.58,124.11
+ORD-10395,2025-06-30,Mouse,Technology,Central,Corporate,Online,1,41.08,0,48.47,18.59,29.88
+ORD-10396,2024-06-13,Phone Charger,Accessories,East,Small Business,Retail Store,6,29.41,0.05,176.02,72.37,103.65
+ORD-10397,2025-04-08,Webcam,Technology,West,Small Business,Retail Store,2,108.21,0.1,214.26,120.17,94.09
+ORD-10398,2024-10-21,Office Chair,Furniture,North-East,Consumer,B2B Sales,3,218.08,0.05,621.53,367.84,253.69
+ORD-10399,2024-09-14,Mouse,Technology,East,Small Business,Retail Store,2,41.42,0.05,82.63,36.8,45.83
+ORD-10400,2024-07-17,Monitor,Technology,Central,Consumer,Online,1,279.36,0.05,344.48,173.22,171.26
+ORD-10401,2024-05-13,Keyboard,Technology,Central,Consumer,Retail Store,1,73.15,0,86.32,37.38,48.94
+ORD-10402,2025-10-02,Bookshelf,Furniture,North-East,Corporate,Retail Store,1,185.54,0.05,176.26,99.46,76.8
+ORD-10403,2025-06-17,Headset,Technology,East,Consumer,Retail Store,1,93.3,0,97.97,45.15,52.82
+ORD-10404,2025-01-04,Headset,Technology,West,Consumer,Retail Store,2,97.37,0,214.21,90.38,123.83
+ORD-10405,2024-09-03,Backpack,Accessories,West,Consumer,Online,6,84.84,0.1,503.95,225.25,278.7
+ORD-10406,2024-09-19,Printer Paper,Office Supplies,Central,Small Business,B2B Sales,7,15.17,0.05,119.04,49.69,69.35
+ORD-10407,2024-10-30,USB-C Hub,Accessories,North,Consumer,B2B Sales,3,68.72,0.1,170.7,91.56,79.14
+ORD-10408,2025-10-03,Webcam,Technology,East,Small Business,Online,1,111.52,0.1,105.39,60.8,44.59
+ORD-10409,2025-03-21,Office Chair,Furniture,East,Consumer,Retail Store,1,212.81,0,223.45,124.7,98.75
+ORD-10410,2024-03-13,Pen Set,Office Supplies,North,Consumer,Online,7,12.04,0,77.54,28.76,48.78
+ORD-10411,2025-07-01,Webcam,Technology,West,Consumer,Retail Store,1,114.93,0.05,132.11,58.88,73.23
+ORD-10412,2024-10-23,Bookshelf,Furniture,West,Consumer,Retail Store,1,179.91,0.1,178.11,96.25,81.86
+ORD-10413,2025-06-30,Webcam,Technology,North-East,Corporate,B2B Sales,1,112.57,0,112.57,60.44,52.13
+ORD-10414,2025-10-25,Notebook,Office Supplies,West,Small Business,Online,1,7.68,0.1,7.6,3.05,4.55
+ORD-10415,2024-03-28,Webcam,Technology,North,Consumer,B2B Sales,3,107.17,0,295.79,178.03,117.76
+ORD-10416,2024-09-15,Monitor,Technology,West,Small Business,B2B Sales,3,296.64,0.05,929.97,519.42,410.55
+ORD-10417,2024-10-24,Bookshelf,Furniture,Central,Consumer,Retail Store,3,179.23,0.1,571.03,283.98,287.05
+ORD-10418,2024-10-18,Standing Desk,Furniture,North,Consumer,Online,1,535.26,0,492.44,316.1,176.34
+ORD-10419,2024-11-19,USB-C Hub,Accessories,Central,Consumer,Retail Store,7,64.2,0.05,629.72,215.79,413.93
+ORD-10420,2024-12-05,Power Bank,Accessories,North-East,Consumer,Online,2,53.77,0.1,120.98,54.02,66.96
+ORD-10421,2024-05-23,USB-C Hub,Accessories,North,Corporate,Retail Store,3,68.2,0.15,160.0,92.18,67.82
+ORD-10422,2025-08-18,Stapler,Office Supplies,East,Small Business,Retail Store,9,18.46,0,174.45,72.54,101.91
+ORD-10423,2025-08-26,Bookshelf,Furniture,East,Consumer,Retail Store,1,181.84,0.1,171.84,98.74,73.1
+ORD-10424,2025-09-20,Drawer Cabinet,Furniture,East,Consumer,Online,3,164.15,0.2,413.66,272.32,141.34
+ORD-10425,2025-05-10,Laptop Stand,Accessories,East,Corporate,Online,7,44.86,0,329.72,139.23,190.49
+ORD-10426,2025-01-04,Desk Organizer,Office Supplies,Central,Consumer,Retail Store,2,25.76,0.05,57.75,22.84,34.91
+ORD-10427,2024-09-26,Stapler,Office Supplies,East,Consumer,Online,2,18.21,0.05,36.33,16.7,19.63
+ORD-10428,2025-06-12,Printer Paper,Office Supplies,North-East,Corporate,B2B Sales,1,15.15,0,15.15,6.94,8.21
+ORD-10429,2024-03-19,Printer Paper,Office Supplies,East,Consumer,Online,2,15.39,0.05,30.7,14.04,16.66
+ORD-10430,2024-04-26,Desk Organizer,Office Supplies,North-East,Consumer,Online,7,24.06,0,168.42,78.55,89.87
+ORD-10431,2024-06-13,Headset,Technology,Central,Small Business,Online,1,99.96,0.05,112.06,45.38,66.68
+ORD-10432,2025-07-31,Bookshelf,Furniture,Central,Consumer,Retail Store,1,181.47,0,235.55,95.83,139.72
+ORD-10433,2024-05-26,Standing Desk,Furniture,West,Corporate,Online,3,517.02,0.05,1620.86,949.85,671.01
+ORD-10434,2024-08-23,Pen Set,Office Supplies,Central,Consumer,Retail Store,7,12.51,0.1,93.0,27.79,65.21
+ORD-10435,2025-09-21,Stapler,Office Supplies,West,Corporate,Online,4,18.9,0.05,79.0,31.36,47.64
+ORD-10436,2025-11-25,Drawer Cabinet,Furniture,North-East,Consumer,Online,1,157.27,0.15,167.1,91.1,76.0
+ORD-10437,2025-01-25,File Folder Pack,Office Supplies,West,Consumer,Online,8,20.73,0.15,155.06,70.98,84.08
+ORD-10438,2025-09-04,Power Bank,Accessories,North,Consumer,Retail Store,1,55.98,0,51.5,25.49,26.01
+ORD-10439,2025-11-01,Keyboard,Technology,North-East,Consumer,Online,2,73.9,0.15,157.04,76.73,80.31
+ORD-10440,2025-01-09,Desk Lamp,Furniture,East,Consumer,Retail Store,1,54.84,0.05,54.7,23.95,30.75
+ORD-10441,2024-11-10,File Folder Pack,Office Supplies,North-East,Corporate,B2B Sales,3,20.7,0.05,73.74,27.78,45.96
+ORD-10442,2024-06-14,Headset,Technology,North-East,Corporate,Retail Store,3,97.7,0,293.1,135.98,157.12
+ORD-10443,2025-10-13,Laptop,Technology,East,Consumer,Retail Store,1,936.99,0.05,934.65,634.03,300.62
+ORD-10444,2025-01-28,Power Bank,Accessories,West,Corporate,Online,1,58.0,0.15,54.23,26.65,27.58
+ORD-10445,2025-03-25,Webcam,Technology,West,Consumer,Online,2,111.27,0,244.79,115.06,129.73
+ORD-10446,2024-02-06,File Folder Pack,Office Supplies,Central,Small Business,Online,6,20.76,0.05,139.63,54.41,85.22
+ORD-10447,2025-08-23,Laptop,Technology,Central,Small Business,Retail Store,2,965.12,0.1,2049.91,1245.36,804.55
+ORD-10448,2024-10-10,Monitor,Technology,North-East,Small Business,Retail Store,1,280.2,0,280.2,167.46,112.74
+ORD-10449,2024-10-28,Notebook,Office Supplies,West,Small Business,B2B Sales,6,8.24,0.2,43.51,18.35,25.16
+ORD-10450,2024-09-06,Desk Lamp,Furniture,North-East,Small Business,B2B Sales,1,54.22,0.05,51.51,24.84,26.67
+ORD-10451,2024-08-13,Standing Desk,Furniture,North,Consumer,Online,1,535.64,0,492.79,310.03,182.76
+ORD-10452,2025-02-12,Bookshelf,Furniture,Central,Corporate,Online,1,176.73,0.05,198.11,94.32,103.79
+ORD-10453,2025-11-30,USB-C Hub,Accessories,North-East,Corporate,Online,5,68.07,0,425.44,149.13,276.31
+ORD-10454,2024-09-12,Phone Charger,Accessories,East,Corporate,Online,3,30.83,0.1,87.4,36.83,50.57
+ORD-10455,2025-07-08,Power Bank,Accessories,North,Corporate,Retail Store,7,55.5,0.2,314.53,190.03,124.5
+ORD-10456,2024-10-13,Stapler,Office Supplies,East,Consumer,Retail Store,8,18.97,0,159.35,64.28,95.07
+ORD-10457,2025-12-03,Desk Lamp,Furniture,Central,Corporate,Online,3,52.87,0,233.95,73.49,160.46
+ORD-10458,2024-11-29,Printer Paper,Office Supplies,East,Corporate,Online,11,15.84,0.05,217.26,76.45,140.81
+ORD-10459,2025-03-10,Webcam,Technology,North,Consumer,Online,1,111.89,0.2,82.35,59.63,22.72
+ORD-10460,2024-04-12,Standing Desk,Furniture,West,Consumer,Online,1,549.08,0,603.99,321.28,282.71
+ORD-10461,2024-06-29,Pen Set,Office Supplies,West,Corporate,Online,11,11.88,0.05,136.56,44.87,91.69
+ORD-10462,2025-02-11,Monitor,Technology,Central,Consumer,Online,3,271.5,0.1,865.0,509.07,355.93
+ORD-10463,2025-01-03,Printer Paper,Office Supplies,North,Consumer,Online,4,15.27,0.1,50.57,28.5,22.07
+ORD-10464,2024-10-18,File Folder Pack,Office Supplies,West,Consumer,Retail Store,2,19.96,0,43.91,18.44,25.47
+ORD-10465,2024-05-28,Phone Charger,Accessories,North-East,Corporate,Retail Store,3,29.04,0.05,82.76,36.07,46.69
+ORD-10466,2025-10-30,Keyboard,Technology,West,Corporate,Online,1,78.47,0.05,82.0,38.8,43.2
+ORD-10467,2025-04-06,Pen Set,Office Supplies,Central,Consumer,Online,5,12.65,0.1,67.17,19.71,47.46
+ORD-10468,2024-06-19,Notebook,Office Supplies,Central,Small Business,Online,1,7.7,0.05,8.63,3.1,5.53
+ORD-10469,2024-03-26,Headset,Technology,East,Consumer,B2B Sales,1,93.38,0.1,88.24,45.5,42.74
+ORD-10470,2024-05-09,Monitor,Technology,Central,Consumer,Online,3,293.0,0.05,985.36,530.89,454.47
+ORD-10471,2024-10-05,Pen Set,Office Supplies,West,Consumer,Retail Store,7,12.15,0.1,84.2,28.05,56.15
+ORD-10472,2024-12-21,Pen Set,Office Supplies,Central,Consumer,Online,5,11.71,0,86.36,20.33,66.03
+ORD-10473,2024-05-19,Desk Organizer,Office Supplies,West,Consumer,B2B Sales,8,24.75,0.1,196.02,91.16,104.86
+ORD-10474,2025-09-03,Laptop,Technology,West,Consumer,Online,2,949.5,0,2088.9,1279.18,809.72
+ORD-10475,2025-02-03,USB-C Hub,Accessories,North,Consumer,Retail Store,5,64.25,0.1,266.0,155.49,110.51
+ORD-10476,2025-02-26,Laptop,Technology,East,Consumer,Online,1,955.01,0.1,902.48,628.95,273.53
+ORD-10477,2024-11-24,Laptop,Technology,West,Consumer,B2B Sales,1,923.88,0.05,1206.82,607.96,598.86
+ORD-10478,2024-04-02,Mouse,Technology,East,Consumer,Online,2,42.39,0.05,84.57,37.27,47.3
+ORD-10479,2024-12-04,Monitor,Technology,Central,Consumer,Online,1,273.88,0.15,343.38,169.58,173.8
+ORD-10480,2025-01-25,Laptop Stand,Accessories,East,Consumer,B2B Sales,4,46.52,0,195.38,80.98,114.4
+ORD-10481,2024-04-06,Pen Set,Office Supplies,North-East,Consumer,B2B Sales,6,11.71,0.1,63.23,24.77,38.46
+ORD-10482,2025-07-16,Printer Paper,Office Supplies,North-East,Corporate,Online,1,15.7,0,17.27,6.92,10.35
+ORD-10483,2025-10-10,Notebook,Office Supplies,East,Corporate,Retail Store,9,8.31,0,78.53,26.54,51.99
+ORD-10484,2025-12-08,Stapler,Office Supplies,East,Consumer,Online,3,18.18,0.1,64.43,24.09,40.34
+ORD-10485,2025-10-02,Keyboard,Technology,East,Corporate,Retail Store,1,73.75,0.2,61.95,39.34,22.61
+ORD-10486,2024-12-21,Desk Lamp,Furniture,East,Consumer,Online,2,54.18,0,142.22,49.41,92.81
+ORD-10487,2025-07-26,Webcam,Technology,North-East,Consumer,Online,1,113.66,0,125.03,60.22,64.81
+ORD-10488,2025-07-21,Headset,Technology,East,Consumer,Retail Store,1,95.51,0.1,99.28,45.69,53.59
+ORD-10489,2024-07-08,Backpack,Accessories,North,Corporate,Online,3,87.2,0.05,251.5,114.81,136.69
+ORD-10490,2025-06-20,Drawer Cabinet,Furniture,East,Corporate,Online,1,155.37,0.05,154.98,86.65,68.33
+ORD-10491,2024-05-12,Laptop,Technology,East,Consumer,Online,1,972.97,0.05,970.54,628.86,341.68
+ORD-10492,2025-09-30,Bookshelf,Furniture,Central,Consumer,Retail Store,1,189.54,0,223.66,96.37,127.29
+ORD-10493,2024-03-22,File Folder Pack,Office Supplies,Central,Consumer,Retail Store,7,20.84,0.1,154.92,62.0,92.92
+ORD-10494,2025-09-23,Laptop,Technology,Central,Small Business,Online,1,961.35,0,1134.39,617.63,516.76
+ORD-10495,2025-01-29,Headset,Technology,East,Corporate,B2B Sales,3,96.5,0.1,273.58,139.54,134.04
+ORD-10496,2025-08-13,Desk Organizer,Office Supplies,North-East,Small Business,Online,3,25.37,0.05,72.3,33.86,38.44
+ORD-10497,2025-06-30,Power Bank,Accessories,North,Small Business,Retail Store,7,57.45,0.05,351.48,186.43,165.05
+ORD-10498,2024-11-27,Drawer Cabinet,Furniture,West,Consumer,Retail Store,3,157.67,0.2,520.31,266.99,253.32
+ORD-10499,2025-02-10,Laptop,Technology,North,Corporate,Retail Store,5,940.67,0,4327.08,3086.15,1240.93
+ORD-10500,2024-11-18,Webcam,Technology,North,Small Business,Retail Store,2,111.89,0,257.35,117.42,139.93
+ORD-10501,2024-06-08,Keyboard,Technology,West,Consumer,Online,1,76.28,0.05,79.71,37.82,41.89
+ORD-10502,2024-03-20,Desk Lamp,Furniture,East,Consumer,B2B Sales,2,57.31,0,120.35,49.2,71.15
+ORD-10503,2024-02-08,Drawer Cabinet,Furniture,North-East,Consumer,Online,2,159.17,0.15,270.59,177.61,92.98
+ORD-10504,2024-05-03,USB-C Hub,Accessories,West,Small Business,Retail Store,8,62.75,0.05,524.59,240.56,284.03
+ORD-10505,2025-08-01,Headset,Technology,East,Consumer,Retail Store,4,100.42,0.1,379.59,183.65,195.94
+ORD-10506,2024-04-02,Keyboard,Technology,North-East,Consumer,Online,1,77.59,0.05,73.71,37.94,35.77
+ORD-10507,2025-02-12,File Folder Pack,Office Supplies,East,Corporate,Retail Store,5,20.18,0.1,95.35,44.72,50.63
+ORD-10508,2025-09-22,Backpack,Accessories,East,Consumer,Online,7,84.35,0.15,526.98,262.35,264.63
+ORD-10509,2025-11-18,Printer Paper,Office Supplies,North,Consumer,Online,1,15.55,0,17.88,7.03,10.85
+ORD-10510,2025-03-28,Desk Lamp,Furniture,Central,Small Business,Online,2,53.66,0.1,113.97,47.33,66.64
+ORD-10511,2024-02-25,Headset,Technology,East,Small Business,B2B Sales,1,97.79,0,102.68,45.52,57.16
+ORD-10512,2024-01-24,File Folder Pack,Office Supplies,West,Consumer,Retail Store,5,20.3,0.1,100.49,47.23,53.26
+ORD-10513,2025-12-12,Office Chair,Furniture,North-East,Corporate,Retail Store,1,214.95,0,268.69,129.41,139.28
+ORD-10514,2025-09-24,Mouse,Technology,Central,Consumer,Retail Store,2,42.05,0.05,94.28,35.55,58.73
+ORD-10515,2024-10-26,Power Bank,Accessories,East,Small Business,Retail Store,2,57.77,0.05,115.25,53.13,62.12
+ORD-10516,2024-03-31,Headset,Technology,North-East,Corporate,Retail Store,1,99.96,0,99.96,45.64,54.32
+ORD-10517,2024-06-09,Webcam,Technology,North,Consumer,Online,4,116.36,0,428.2,228.37,199.83
+ORD-10518,2024-09-20,Laptop Stand,Accessories,West,Small Business,Online,7,47.24,0.1,327.37,138.06,189.31
+ORD-10519,2025-01-26,File Folder Pack,Office Supplies,West,Small Business,Retail Store,8,19.68,0,173.18,75.45,97.73
+ORD-10520,2025-09-11,Stapler,Office Supplies,East,Consumer,Online,4,18.83,0,79.09,32.94,46.15
+ORD-10521,2025-06-20,Power Bank,Accessories,East,Corporate,Retail Store,4,54.55,0.05,217.65,108.83,108.82
+ORD-10522,2024-05-01,Monitor,Technology,Central,Corporate,B2B Sales,1,280.32,0.05,314.24,177.71,136.53
+ORD-10523,2025-10-14,Phone Charger,Accessories,East,Corporate,Online,4,28.88,0.2,97.04,49.11,47.93
+ORD-10524,2025-09-12,Pen Set,Office Supplies,West,Consumer,Retail Store,6,11.62,0.1,69.02,23.75,45.27
+ORD-10525,2025-09-11,File Folder Pack,Office Supplies,North,Consumer,Online,8,19.48,0,143.37,70.72,72.65
+ORD-10526,2024-01-16,Power Bank,Accessories,East,Corporate,B2B Sales,5,53.16,0.15,237.23,136.37,100.86
+ORD-10527,2025-09-23,Printer Paper,Office Supplies,North-East,Small Business,Online,1,15.31,0.15,13.01,7.21,5.8
+ORD-10528,2025-02-07,Drawer Cabinet,Furniture,West,Corporate,Retail Store,3,154.22,0,508.93,267.16,241.77
+ORD-10529,2024-02-13,USB-C Hub,Accessories,West,Corporate,B2B Sales,1,66.03,0.05,69.0,30.72,38.28
+ORD-10530,2024-02-20,Mouse,Technology,North-East,Small Business,Retail Store,1,39.07,0,39.07,18.8,20.27
+ORD-10531,2025-12-07,Pen Set,Office Supplies,North-East,Small Business,Online,2,11.74,0.1,26.42,8.34,18.08
+ORD-10532,2025-07-13,Mouse,Technology,North,Consumer,Online,2,41.25,0,83.49,36.43,47.06
+ORD-10533,2024-09-13,File Folder Pack,Office Supplies,East,Corporate,Online,3,20.61,0.1,58.43,26.62,31.81
+ORD-10534,2025-12-25,Stapler,Office Supplies,West,Small Business,Online,8,17.36,0,190.96,64.22,126.74
+ORD-10535,2025-11-06,USB-C Hub,Accessories,East,Consumer,Retail Store,7,64.4,0.1,532.51,219.93,312.58
+ORD-10536,2024-10-22,Office Chair,Furniture,East,Small Business,Online,2,211.47,0.05,421.88,253.73,168.15
+ORD-10537,2024-01-06,Desk Lamp,Furniture,East,Consumer,Retail Store,1,55.23,0.1,52.19,23.53,28.66
+ORD-10538,2025-07-14,Webcam,Technology,West,Small Business,Online,1,106.21,0.05,122.09,57.43,64.66
+ORD-10539,2024-02-03,Drawer Cabinet,Furniture,North,Consumer,Online,1,169.5,0,155.94,87.99,67.95
+ORD-10540,2025-11-07,Drawer Cabinet,Furniture,West,Corporate,Online,1,162.86,0.15,190.34,86.81,103.53
+ORD-10541,2024-11-02,Desk Organizer,Office Supplies,Central,Corporate,B2B Sales,3,24.73,0,109.43,33.94,75.49
+ORD-10542,2024-10-08,Desk Organizer,Office Supplies,West,Consumer,Online,1,24.27,0.1,24.03,11.26,12.77
+ORD-10543,2024-03-30,File Folder Pack,Office Supplies,West,Small Business,B2B Sales,6,20.05,0.15,112.48,53.9,58.58
+ORD-10544,2025-08-11,Phone Charger,Accessories,East,Corporate,Retail Store,11,30.28,0,349.73,134.99,214.74
+ORD-10545,2025-12-26,Monitor,Technology,Central,Consumer,Online,2,289.45,0,853.88,347.84,506.04
+ORD-10546,2025-02-28,Printer Paper,Office Supplies,North,Corporate,Retail Store,1,15.36,0.1,12.72,6.98,5.74
+ORD-10547,2024-03-10,Headset,Technology,West,Consumer,Online,2,94.44,0.1,186.99,92.08,94.91
+ORD-10548,2024-01-30,USB-C Hub,Accessories,North,Small Business,B2B Sales,9,68.36,0.1,509.42,276.8,232.62
+ORD-10549,2025-05-08,Mouse,Technology,West,Small Business,Online,2,42.11,0,92.64,36.59,56.05
+ORD-10550,2025-08-01,Bookshelf,Furniture,West,Corporate,Online,3,187.19,0.15,525.07,286.35,238.72
+ORD-10551,2024-06-01,Laptop,Technology,North,Small Business,Retail Store,3,966.24,0.05,2533.48,1900.29,633.19
+ORD-10552,2024-11-11,Bookshelf,Furniture,Central,Consumer,Online,2,179.49,0.15,450.07,190.22,259.85
+ORD-10553,2025-06-21,Laptop,Technology,North,Corporate,Retail Store,4,954.16,0,3511.31,2514.19,997.12
+ORD-10554,2025-05-27,Keyboard,Technology,North-East,Corporate,Retail Store,3,73.07,0.15,186.33,118.28,68.05
+ORD-10555,2025-06-12,Standing Desk,Furniture,East,Corporate,Online,3,526.36,0,1658.03,972.1,685.93
+ORD-10556,2025-12-04,Laptop Stand,Accessories,North,Consumer,Online,5,43.3,0.1,224.08,102.47,121.61
+ORD-10557,2024-08-02,Pen Set,Office Supplies,North,Consumer,Online,8,12.33,0,90.75,31.71,59.04
+ORD-10558,2024-04-27,Headset,Technology,West,Consumer,Online,1,94.23,0,103.65,46.32,57.33
+ORD-10559,2024-10-17,Pen Set,Office Supplies,Central,Consumer,B2B Sales,8,11.58,0,109.32,33.38,75.94
+ORD-10560,2024-02-21,Laptop,Technology,Central,Consumer,Online,2,968.31,0.15,1942.43,1275.9,666.53
+ORD-10561,2025-09-23,Printer Paper,Office Supplies,East,Corporate,Retail Store,3,15.86,0.1,44.96,21.26,23.7
+ORD-10562,2024-05-14,Webcam,Technology,North-East,Consumer,Online,2,114.03,0.05,216.66,121.37,95.29
+ORD-10563,2024-05-27,Backpack,Accessories,North,Small Business,Online,7,88.3,0.15,483.35,269.12,214.23
+ORD-10564,2024-01-31,Laptop,Technology,North,Consumer,B2B Sales,1,945.12,0.05,826.03,629.65,196.38
+ORD-10565,2025-02-19,Office Chair,Furniture,North,Corporate,Online,1,221.34,0.1,183.27,124.59,58.68
+ORD-10566,2024-09-06,Desk Organizer,Office Supplies,North-East,Consumer,Online,7,25.96,0.05,172.63,79.7,92.93
+ORD-10567,2025-07-11,Standing Desk,Furniture,Central,Corporate,Retail Store,3,505.14,0.1,1770.31,932.58,837.73
+ORD-10568,2024-04-09,USB-C Hub,Accessories,North,Small Business,Online,2,66.86,0.1,110.72,62.24,48.48
+ORD-10569,2024-12-01,File Folder Pack,Office Supplies,Central,Consumer,Retail Store,1,20.71,0.1,27.49,9.11,18.38
+ORD-10570,2024-10-25,Stapler,Office Supplies,North-East,Consumer,Retail Store,6,17.82,0.1,96.23,49.32,46.91
+ORD-10571,2025-03-21,Bookshelf,Furniture,Central,Corporate,Retail Store,1,188.06,0.15,188.62,93.52,95.1
+ORD-10572,2025-07-16,Laptop Stand,Accessories,West,Small Business,Online,6,47.1,0,341.95,123.5,218.45
+ORD-10573,2025-02-07,Desk Lamp,Furniture,North-East,Consumer,Retail Store,1,55.41,0,55.41,24.17,31.24
+ORD-10574,2025-01-03,USB-C Hub,Accessories,North,Small Business,Retail Store,3,62.48,0.1,155.2,89.11,66.09
+ORD-10575,2025-05-13,Standing Desk,Furniture,Central,Consumer,Retail Store,2,545.67,0.1,1159.0,647.98,511.02
+ORD-10576,2025-09-30,Headset,Technology,North-East,Corporate,Online,1,92.97,0.1,83.67,45.92,37.75
+ORD-10577,2024-08-30,Bookshelf,Furniture,North-East,Small Business,Retail Store,1,173.48,0.05,164.81,95.55,69.26
+ORD-10578,2025-08-17,File Folder Pack,Office Supplies,Central,Consumer,Retail Store,5,20.13,0,118.77,46.9,71.87
+ORD-10579,2024-03-31,Webcam,Technology,Central,Corporate,Retail Store,3,112.34,0.15,338.03,177.04,160.99
+ORD-10580,2024-01-12,Stapler,Office Supplies,North-East,Corporate,Online,8,19.01,0.1,136.87,64.02,72.85
+ORD-10581,2024-02-06,Drawer Cabinet,Furniture,North,Corporate,Retail Store,1,161.17,0,148.28,86.56,61.72
+ORD-10582,2024-10-25,Drawer Cabinet,Furniture,Central,Consumer,Online,1,167.22,0,197.32,87.06,110.26
+ORD-10583,2024-10-14,Keyboard,Technology,Central,Corporate,Retail Store,4,77.54,0.1,329.39,152.89,176.5
+ORD-10584,2024-06-28,Webcam,Technology,East,Consumer,Retail Store,3,109.37,0,344.52,172.29,172.23
+ORD-10585,2024-06-06,Power Bank,Accessories,North-East,Consumer,Online,3,53.96,0.1,145.69,78.32,67.37
+ORD-10586,2025-10-19,Laptop,Technology,Central,Consumer,Online,1,982.88,0.1,1043.82,630.71,413.11
+ORD-10587,2025-01-23,Desk Lamp,Furniture,North-East,Consumer,Retail Store,1,54.39,0.1,48.95,24.16,24.79
+ORD-10588,2024-11-19,Laptop Stand,Accessories,Central,Small Business,Retail Store,8,45.95,0.1,487.99,159.85,328.14
+ORD-10589,2024-10-03,Laptop,Technology,North,Corporate,Online,3,983.16,0.1,2442.17,1899.45,542.72
+ORD-10590,2024-07-18,File Folder Pack,Office Supplies,East,Consumer,Online,1,20.86,0,24.09,8.88,15.21
+ORD-10591,2024-04-16,Bookshelf,Furniture,East,Corporate,Online,1,183.95,0,193.15,97.05,96.1
+ORD-10592,2024-08-10,Laptop Stand,Accessories,Central,Consumer,Retail Store,7,46.15,0.15,324.02,142.75,181.27
+ORD-10593,2024-07-08,USB-C Hub,Accessories,North,Consumer,Retail Store,2,66.55,0.15,114.49,59.96,54.53
+ORD-10594,2025-03-13,Bookshelf,Furniture,North,Consumer,Online,2,179.69,0,330.63,187.0,143.63
+ORD-10595,2024-09-28,Laptop,Technology,North-East,Small Business,Online,1,973.32,0,973.32,631.06,342.26
+ORD-10596,2025-03-17,Webcam,Technology,Central,Small Business,Retail Store,1,106.4,0.05,119.27,57.86,61.41
+ORD-10597,2025-04-01,Mouse,Technology,East,Corporate,Online,1,39.96,0,41.96,18.06,23.9
+ORD-10598,2025-02-04,Stapler,Office Supplies,North-East,Consumer,Online,2,18.25,0,36.5,16.75,19.75
+ORD-10599,2025-05-08,Headset,Technology,North,Consumer,Online,1,100.67,0.1,83.35,45.25,38.1
+ORD-10600,2024-12-14,Mouse,Technology,North,Corporate,Online,1,39.94,0,45.93,18.52,27.41
+ORD-10601,2024-04-19,Bookshelf,Furniture,North-East,Consumer,Retail Store,2,175.32,0,350.64,195.77,154.87
+ORD-10602,2025-08-30,Mouse,Technology,Central,Corporate,Retail Store,1,42.26,0.15,42.39,18.86,23.53
+ORD-10603,2024-01-17,Laptop,Technology,North,Corporate,Online,1,988.67,0.1,818.62,627.49,191.13
+ORD-10604,2025-11-25,Backpack,Accessories,East,Corporate,Online,3,81.91,0,322.52,116.94,205.58
+ORD-10605,2025-04-27,Backpack,Accessories,Central,Consumer,Retail Store,1,83.06,0,98.01,38.06,59.95
+ORD-10606,2024-04-09,Pen Set,Office Supplies,West,Consumer,Retail Store,2,12.12,0.1,24.0,7.96,16.04
+ORD-10607,2024-07-26,File Folder Pack,Office Supplies,North-East,Consumer,B2B Sales,3,19.84,0.2,52.38,26.86,25.52
+ORD-10608,2024-02-16,Printer Paper,Office Supplies,Central,Consumer,Online,7,14.65,0.05,114.96,48.59,66.37
+ORD-10609,2024-09-06,Laptop Stand,Accessories,East,Consumer,B2B Sales,7,46.7,0,343.25,141.97,201.28
+ORD-10610,2024-01-07,Laptop,Technology,West,Small Business,Online,2,985.39,0.1,1951.07,1233.09,717.98
+ORD-10611,2025-10-17,Mouse,Technology,North-East,Consumer,Online,2,40.79,0.1,73.42,36.82,36.6
+ORD-10612,2024-03-31,Bookshelf,Furniture,North,Consumer,Retail Store,1,190.56,0.2,140.25,97.22,43.03
+ORD-10613,2025-07-06,Desk Organizer,Office Supplies,East,Consumer,Online,3,25.71,0.2,71.27,33.44,37.83
+ORD-10614,2024-06-29,Laptop,Technology,Central,Corporate,Online,1,943.76,0.15,946.59,640.51,306.08
+ORD-10615,2024-02-14,Laptop,Technology,West,Consumer,Retail Store,1,923.03,0.15,863.03,638.91,224.12
+ORD-10616,2025-08-29,Desk Organizer,Office Supplies,East,Corporate,B2B Sales,5,25.95,0,136.24,54.28,81.96
+ORD-10617,2025-02-26,Power Bank,Accessories,East,Consumer,Retail Store,1,57.7,0,60.59,27.17,33.42
+ORD-10618,2025-04-10,Keyboard,Technology,East,Consumer,Online,1,74.02,0,77.72,37.33,40.39
+ORD-10619,2025-08-05,Monitor,Technology,Central,Small Business,Online,1,278.42,0.15,279.26,173.78,105.48
+ORD-10620,2025-10-15,USB-C Hub,Accessories,West,Small Business,B2B Sales,2,65.08,0.05,136.02,62.42,73.6
+ORD-10621,2024-08-09,Desk Organizer,Office Supplies,North,Consumer,Online,4,24.62,0.05,86.07,43.81,42.26
+ORD-10622,2025-08-28,Backpack,Accessories,Central,Consumer,Online,8,87.83,0.05,787.66,306.98,480.68
+ORD-10623,2025-02-07,File Folder Pack,Office Supplies,Central,Consumer,Online,1,20.59,0.05,23.08,8.96,14.12
+ORD-10624,2025-01-02,Webcam,Technology,Central,Consumer,Retail Store,1,110.65,0.05,124.04,59.21,64.83
+ORD-10625,2025-04-10,Pen Set,Office Supplies,North-East,Consumer,B2B Sales,8,12.36,0,98.88,32.77,66.11
+ORD-10626,2025-01-29,Phone Charger,Accessories,West,Consumer,Online,5,30.89,0.1,152.91,61.22,91.69
+ORD-10627,2024-07-31,Office Chair,Furniture,West,Small Business,Retail Store,1,232.0,0.1,252.65,130.27,122.38
+ORD-10628,2024-04-23,Desk Organizer,Office Supplies,West,Consumer,Online,2,25.4,0.1,50.29,21.77,28.52
+ORD-10629,2024-12-08,Laptop,Technology,North-East,Corporate,Retail Store,4,978.77,0.1,4404.47,2562.49,1841.98
+ORD-10630,2024-11-24,Printer Paper,Office Supplies,West,Corporate,Online,3,14.96,0.05,58.62,21.32,37.3
+ORD-10631,2024-05-05,Stapler,Office Supplies,West,Small Business,Online,7,18.72,0.2,115.32,58.05,57.27
+ORD-10632,2024-03-08,Mouse,Technology,Central,Consumer,B2B Sales,1,42.23,0,49.83,17.99,31.84
+ORD-10633,2025-12-14,Monitor,Technology,East,Corporate,Retail Store,1,295.95,0.05,369.01,168.17,200.84
+ORD-10634,2024-12-21,File Folder Pack,Office Supplies,Central,Consumer,Online,4,20.87,0.05,116.98,36.13,80.85
+ORD-10635,2025-08-15,File Folder Pack,Office Supplies,North,Consumer,Retail Store,8,20.12,0.05,140.68,75.09,65.59
+ORD-10636,2024-11-09,Keyboard,Technology,East,Consumer,B2B Sales,2,72.35,0.05,180.42,76.91,103.51
+ORD-10637,2024-06-19,Standing Desk,Furniture,West,Consumer,B2B Sales,2,535.23,0.1,1059.76,614.26,445.5
+ORD-10638,2024-08-31,Keyboard,Technology,West,Consumer,Online,1,76.22,0,83.84,38.08,45.76
+ORD-10639,2024-12-18,Mouse,Technology,West,Small Business,Retail Store,1,38.5,0.15,45.0,18.61,26.39
+ORD-10640,2025-04-14,USB-C Hub,Accessories,Central,Small Business,Retail Store,7,66.61,0,550.2,218.97,331.23
+ORD-10641,2025-08-10,Drawer Cabinet,Furniture,North-East,Consumer,Online,1,154.24,0.1,138.82,86.96,51.86
+ORD-10642,2024-01-26,Pen Set,Office Supplies,North-East,Consumer,Online,4,12.22,0,48.88,16.73,32.15
+ORD-10643,2024-10-11,Laptop,Technology,West,Small Business,Retail Store,5,1004.7,0.05,5249.56,3144.43,2105.13
+ORD-10644,2025-09-09,Office Chair,Furniture,North,Consumer,Retail Store,1,219.69,0,202.11,125.52,76.59
+ORD-10645,2024-11-11,Backpack,Accessories,Central,Consumer,B2B Sales,7,88.43,0,913.04,275.68,637.36
+ORD-10646,2025-03-10,Desk Lamp,Furniture,East,Small Business,Retail Store,1,54.47,0.2,45.75,24.4,21.35
+ORD-10647,2024-12-09,Headset,Technology,North-East,Consumer,Online,3,95.14,0.05,338.94,139.01,199.93
+ORD-10648,2024-05-20,Mouse,Technology,North,Corporate,Online,3,41.74,0,115.2,55.03,60.17
+ORD-10649,2025-04-19,Laptop,Technology,East,Consumer,B2B Sales,3,956.89,0.1,2712.78,1939.03,773.75
+ORD-10650,2025-03-03,Webcam,Technology,East,Consumer,Retail Store,1,116.28,0.1,109.88,58.31,51.57
+ORD-10651,2025-05-07,Printer Paper,Office Supplies,North-East,Small Business,Retail Store,7,15.17,0.05,100.88,50.92,49.96
+ORD-10652,2024-06-15,Pen Set,Office Supplies,North,Consumer,Retail Store,6,11.72,0,64.69,24.22,40.47
+ORD-10653,2024-12-30,Keyboard,Technology,West,Corporate,Online,1,76.71,0.1,94.93,38.83,56.1
+ORD-10654,2024-06-20,Printer Paper,Office Supplies,North,Consumer,Retail Store,6,14.54,0.1,72.23,43.58,28.65
+ORD-10655,2024-01-14,Keyboard,Technology,North,Corporate,Online,4,73.22,0,269.45,154.32,115.13
+ORD-10656,2024-07-11,Drawer Cabinet,Furniture,West,Corporate,B2B Sales,3,165.0,0.1,539.06,273.55,265.51
+ORD-10657,2025-03-03,Notebook,Office Supplies,Central,Small Business,B2B Sales,9,7.96,0.1,76.08,26.72,49.36
+ORD-10658,2025-03-28,Backpack,Accessories,West,Corporate,Online,7,81.84,0.15,535.64,264.82,270.82
+ORD-10659,2025-12-11,Monitor,Technology,North,Consumer,Online,1,288.14,0.1,298.22,167.53,130.69
+ORD-10660,2025-05-10,Office Chair,Furniture,East,Consumer,Retail Store,1,212.5,0,223.12,124.71,98.41
+ORD-10661,2024-03-08,Laptop,Technology,Central,Corporate,B2B Sales,1,997.61,0,1177.18,622.86,554.32
+ORD-10662,2024-04-02,Webcam,Technology,North,Small Business,Online,1,111.11,0.1,92.0,57.82,34.18
+ORD-10663,2025-08-06,Headset,Technology,Central,Corporate,Retail Store,5,92.83,0.1,492.93,220.57,272.36
+ORD-10664,2024-04-11,Backpack,Accessories,North-East,Consumer,Retail Store,8,87.32,0,698.56,315.68,382.88
+ORD-10665,2025-01-23,Stapler,Office Supplies,East,Consumer,Retail Store,6,17.5,0,110.25,47.5,62.75
+ORD-10666,2025-01-04,Drawer Cabinet,Furniture,Central,Consumer,Retail Store,1,160.91,0.1,170.89,90.47,80.42
+ORD-10667,2025-03-30,Mouse,Technology,North,Small Business,Online,3,41.98,0.15,98.49,56.47,42.02
+ORD-10668,2025-01-11,Webcam,Technology,North-East,Corporate,Online,1,113.04,0,113.04,58.44,54.6
+ORD-10669,2025-12-12,Notebook,Office Supplies,East,Consumer,B2B Sales,6,7.84,0.15,52.48,18.15,34.33
+ORD-10670,2024-08-26,Power Bank,Accessories,North,Corporate,Retail Store,7,56.96,0.15,311.8,190.38,121.42
+ORD-10671,2024-12-30,Stapler,Office Supplies,North-East,Small Business,Retail Store,3,18.66,0,69.98,23.94,46.04
+ORD-10672,2025-05-24,Monitor,Technology,Central,Consumer,Online,1,287.79,0.2,271.67,171.15,100.52
+ORD-10673,2025-11-26,Printer Paper,Office Supplies,West,Corporate,Retail Store,11,15.59,0,235.8,79.03,156.77
+ORD-10674,2025-05-17,Stapler,Office Supplies,North,Small Business,Retail Store,1,18.99,0,17.47,8.08,9.39
+ORD-10675,2024-05-01,Printer Paper,Office Supplies,North-East,Consumer,Online,3,15.23,0.15,38.84,21.03,17.81
+ORD-10676,2025-12-24,Mouse,Technology,East,Consumer,Online,2,40.68,0.05,101.45,36.68,64.77
+ORD-10677,2025-07-06,Desk Organizer,Office Supplies,West,Small Business,Retail Store,8,24.66,0.1,214.84,88.57,126.27
+ORD-10678,2025-11-23,Printer Paper,Office Supplies,North,Consumer,Retail Store,3,15.66,0.05,51.33,21.67,29.66
+ORD-10679,2024-01-28,Bookshelf,Furniture,North-East,Consumer,Online,1,179.12,0.1,161.21,94.75,66.46
+ORD-10680,2025-10-25,Laptop,Technology,Central,Small Business,Online,1,963.15,0,1136.52,636.15,500.37
+ORD-10681,2025-03-08,Desk Organizer,Office Supplies,North,Consumer,Online,1,26.46,0.05,23.13,11.08,12.05
+ORD-10682,2025-08-09,Mouse,Technology,Central,Corporate,Online,1,41.65,0.1,44.23,17.85,26.38
+ORD-10683,2024-11-02,Desk Organizer,Office Supplies,East,Consumer,B2B Sales,2,26.1,0.05,65.09,22.0,43.09
+ORD-10684,2024-02-18,Headset,Technology,North-East,Small Business,Retail Store,5,98.02,0.05,465.59,229.82,235.77
+ORD-10685,2024-10-06,Headset,Technology,North-East,Consumer,Online,1,99.03,0.05,94.08,45.04,49.04
+ORD-10686,2025-11-10,Pen Set,Office Supplies,North-East,Consumer,Retail Store,8,12.33,0.05,117.13,33.33,83.8
+ORD-10687,2025-10-04,Standing Desk,Furniture,West,Consumer,Retail Store,2,547.98,0,1205.56,635.29,570.27
+ORD-10688,2025-09-21,Power Bank,Accessories,West,Corporate,Online,5,54.8,0,301.4,128.77,172.63
+ORD-10689,2025-12-02,Desk Lamp,Furniture,North-East,Consumer,B2B Sales,1,53.92,0.05,64.03,24.9,39.13
+ORD-10690,2025-10-23,Webcam,Technology,West,Consumer,Online,1,105.9,0.1,104.84,58.1,46.74
+ORD-10691,2025-05-12,Desk Organizer,Office Supplies,North-East,Corporate,Online,4,24.68,0,98.72,45.55,53.17
+ORD-10692,2024-10-11,Standing Desk,Furniture,Central,Small Business,Retail Store,1,543.9,0,641.8,316.85,324.95
+ORD-10693,2024-03-06,Power Bank,Accessories,North,Corporate,B2B Sales,9,57.99,0.1,432.14,231.62,200.52
+ORD-10694,2024-04-24,Stapler,Office Supplies,Central,Corporate,B2B Sales,7,18.17,0,150.08,57.23,92.85
+ORD-10695,2024-11-16,Stapler,Office Supplies,North-East,Small Business,Retail Store,8,17.67,0,176.7,63.68,113.02
+ORD-10696,2024-10-08,Printer Paper,Office Supplies,West,Consumer,Retail Store,2,14.87,0.05,31.08,14.39,16.69
+ORD-10697,2024-10-11,USB-C Hub,Accessories,North,Consumer,Online,5,62.54,0.2,230.15,153.36,76.79
+ORD-10698,2025-11-09,Office Chair,Furniture,East,Consumer,Online,1,226.61,0.15,252.81,128.5,124.31
+ORD-10699,2025-07-01,Power Bank,Accessories,North-East,Consumer,B2B Sales,5,54.45,0.15,254.55,134.29,120.26
+ORD-10700,2024-10-31,Monitor,Technology,North-East,Corporate,B2B Sales,3,280.18,0,840.54,530.73,309.81
+ORD-10701,2025-05-18,Desk Organizer,Office Supplies,North,Corporate,B2B Sales,3,26.06,0.1,64.73,33.51,31.22
+ORD-10702,2024-12-26,File Folder Pack,Office Supplies,West,Corporate,Online,1,20.72,0.1,25.64,8.94,16.7
+ORD-10703,2025-03-30,Standing Desk,Furniture,Central,Consumer,Retail Store,1,503.48,0,594.11,315.01,279.1
+ORD-10704,2025-10-26,Drawer Cabinet,Furniture,North-East,Corporate,Online,1,165.36,0,165.36,90.47,74.89
+ORD-10705,2024-12-01,Standing Desk,Furniture,Central,Consumer,Online,2,548.33,0.15,1374.94,617.34,757.6
+ORD-10706,2024-01-24,Backpack,Accessories,East,Small Business,B2B Sales,5,83.83,0.15,374.09,186.86,187.23
+ORD-10707,2025-09-24,Printer Paper,Office Supplies,East,Consumer,Online,2,14.42,0.05,28.77,14.48,14.29
+ORD-10708,2025-04-09,Power Bank,Accessories,Central,Consumer,Online,5,54.38,0.05,304.8,128.58,176.22
+ORD-10709,2024-07-30,Bookshelf,Furniture,East,Consumer,Online,1,178.02,0,205.61,97.21,108.4
+ORD-10710,2024-09-11,File Folder Pack,Office Supplies,North-East,Consumer,Online,6,21.15,0.05,120.55,53.72,66.83
+ORD-10711,2025-01-27,Drawer Cabinet,Furniture,North,Consumer,Retail Store,1,168.5,0.05,147.27,88.42,58.85
+ORD-10712,2025-09-12,Backpack,Accessories,Central,Consumer,Retail Store,7,84.17,0.05,660.48,267.59,392.89
+ORD-10713,2025-07-26,Monitor,Technology,North,Consumer,Retail Store,1,281.91,0,285.29,175.05,110.24
+ORD-10714,2025-03-19,Laptop,Technology,North,Consumer,Online,3,991.31,0.1,2462.41,1943.4,519.01
+ORD-10715,2024-10-16,Phone Charger,Accessories,West,Small Business,B2B Sales,7,30.11,0,231.85,86.65,145.2
+ORD-10716,2025-05-18,Standing Desk,Furniture,West,Small Business,Retail Store,2,501.97,0,1104.33,617.58,486.75
+ORD-10717,2024-02-06,Pen Set,Office Supplies,North-East,Consumer,B2B Sales,8,11.57,0.05,87.93,32.95,54.98
+ORD-10718,2025-05-11,Notebook,Office Supplies,East,Consumer,Online,5,7.82,0,41.05,15.23,25.82
+ORD-10719,2024-10-06,File Folder Pack,Office Supplies,West,Consumer,B2B Sales,1,20.25,0.05,21.16,9.08,12.08
+ORD-10720,2024-03-19,Mouse,Technology,Central,Small Business,Online,2,41.12,0.05,92.19,36.77,55.42
+ORD-10721,2024-04-18,USB-C Hub,Accessories,Central,Consumer,B2B Sales,8,65.35,0.2,493.52,245.18,248.34
+ORD-10722,2024-01-06,Notebook,Office Supplies,West,Small Business,Online,3,7.85,0,25.9,9.23,16.67
+ORD-10723,2024-11-26,Office Chair,Furniture,West,Small Business,Online,1,215.12,0.2,236.63,130.07,106.56
+ORD-10724,2024-04-01,Monitor,Technology,East,Consumer,Online,2,295.52,0,620.59,340.31,280.28
+ORD-10725,2025-03-18,Bookshelf,Furniture,West,Consumer,Retail Store,2,182.03,0.05,380.44,197.98,182.46
+ORD-10726,2025-05-02,Headset,Technology,North-East,Consumer,Online,1,92.97,0.1,83.67,44.39,39.28
+ORD-10727,2025-06-09,Desk Organizer,Office Supplies,East,Corporate,Retail Store,11,25.32,0.1,263.2,119.29,143.91
+ORD-10728,2025-04-24,Desk Organizer,Office Supplies,North,Consumer,Online,5,26.1,0.05,114.06,55.04,59.02
+ORD-10729,2024-02-18,Notebook,Office Supplies,West,Consumer,Online,2,8.05,0.1,15.94,6.22,9.72
+ORD-10730,2024-12-29,Laptop,Technology,West,Consumer,Retail Store,1,986.69,0.15,1153.19,609.56,543.63
+ORD-10731,2025-03-02,Phone Charger,Accessories,North,Corporate,Online,11,30.67,0,310.38,138.29,172.09
+ORD-10732,2024-07-10,Laptop,Technology,West,Consumer,Retail Store,1,913.7,0.05,1050.3,608.18,442.12
+ORD-10733,2025-11-02,File Folder Pack,Office Supplies,North-East,Small Business,B2B Sales,9,19.81,0.15,189.43,82.88,106.55
+ORD-10734,2025-12-08,Desk Lamp,Furniture,North,Consumer,Online,1,57.29,0.1,59.3,23.84,35.46
+ORD-10735,2024-01-28,Webcam,Technology,East,Corporate,Online,3,114.29,0,360.01,174.19,185.82
+ORD-10736,2025-04-19,Mouse,Technology,Central,Consumer,B2B Sales,2,40.18,0.05,90.08,35.33,54.75
+ORD-10737,2025-04-05,Pen Set,Office Supplies,North,Corporate,B2B Sales,1,11.92,0,10.97,4.16,6.81
+ORD-10738,2025-03-18,Power Bank,Accessories,West,Corporate,Retail Store,7,53.0,0.05,387.69,184.9,202.79
+ORD-10739,2025-09-18,Power Bank,Accessories,East,Corporate,Retail Store,9,55.97,0.05,502.47,233.71,268.76
+ORD-10740,2025-10-25,Desk Organizer,Office Supplies,Central,Consumer,B2B Sales,6,25.12,0.05,168.96,65.43,103.53
+ORD-10741,2024-07-15,Desk Organizer,Office Supplies,East,Consumer,Retail Store,6,26.3,0.15,154.92,67.98,86.94
+ORD-10742,2025-04-24,Keyboard,Technology,North-East,Small Business,B2B Sales,2,77.51,0.1,139.52,78.73,60.79
+ORD-10743,2024-06-14,Bookshelf,Furniture,Central,Corporate,Online,1,183.7,0,216.77,95.87,120.9
+ORD-10744,2025-05-20,Monitor,Technology,West,Consumer,Online,3,278.8,0,920.04,529.36,390.68
+ORD-10745,2025-05-30,Laptop,Technology,North,Consumer,Retail Store,1,933.29,0,858.63,622.37,236.26
+ORD-10746,2024-12-29,Drawer Cabinet,Furniture,North,Small Business,B2B Sales,2,163.27,0,375.52,173.1,202.42
+ORD-10747,2025-03-24,Office Chair,Furniture,Central,Corporate,Retail Store,3,213.44,0.05,717.8,380.82,336.98
+ORD-10748,2024-06-20,Standing Desk,Furniture,North,Consumer,Online,1,525.51,0.1,435.12,305.95,129.17
+ORD-10749,2025-10-24,Pen Set,Office Supplies,Central,Small Business,Online,8,12.44,0,117.43,33.23,84.2
+ORD-10750,2025-04-30,Stapler,Office Supplies,East,Consumer,Online,7,17.93,0.1,118.61,55.47,63.14
+ORD-10751,2025-06-26,Pen Set,Office Supplies,East,Small Business,Online,8,12.6,0.2,84.67,32.52,52.15
+ORD-10752,2025-11-29,Notebook,Office Supplies,North-East,Consumer,Online,2,7.75,0,19.38,6.29,13.09
+ORD-10753,2024-06-17,Desk Organizer,Office Supplies,Central,Corporate,Retail Store,1,26.44,0.2,24.96,11.4,13.56
+ORD-10754,2025-06-16,Power Bank,Accessories,North-East,Small Business,Retail Store,6,56.77,0,340.62,156.64,183.98
+ORD-10755,2024-10-13,Backpack,Accessories,East,Corporate,Online,5,89.14,0.1,421.19,194.42,226.77
+ORD-10756,2025-03-28,Desk Lamp,Furniture,East,Small Business,Online,1,54.94,0.1,51.92,25.0,26.92
+ORD-10757,2025-06-16,Phone Charger,Accessories,East,Consumer,Retail Store,6,31.07,0,195.74,70.7,125.04
+ORD-10758,2025-07-06,Pen Set,Office Supplies,North,Corporate,B2B Sales,3,12.4,0.15,32.0,11.98,20.02
+ORD-10759,2025-06-03,Notebook,Office Supplies,Central,Consumer,Retail Store,1,8.04,0.2,7.59,3.11,4.48
+ORD-10760,2025-08-18,File Folder Pack,Office Supplies,West,Small Business,Online,6,19.77,0.1,117.43,55.62,61.81
+ORD-10761,2025-11-19,Mouse,Technology,West,Corporate,Online,1,39.17,0.1,48.47,18.21,30.26
+ORD-10762,2024-05-30,Desk Lamp,Furniture,Central,Consumer,Online,1,53.98,0,63.7,24.66,39.04
+ORD-10763,2025-02-16,Stapler,Office Supplies,North-East,Small Business,Retail Store,8,19.07,0.1,137.3,66.97,70.33
+ORD-10764,2025-03-02,USB-C Hub,Accessories,West,Consumer,Retail Store,3,68.69,0.05,215.34,91.53,123.81
+ORD-10765,2025-12-12,Mouse,Technology,Central,Corporate,B2B Sales,1,42.21,0.1,56.03,18.15,37.88
+ORD-10766,2024-05-03,Printer Paper,Office Supplies,Central,Corporate,Online,7,15.89,0,131.25,49.69,81.56
+ORD-10767,2024-05-26,Headset,Technology,North-East,Consumer,B2B Sales,3,93.25,0.15,237.79,136.92,100.87
+ORD-10768,2024-05-05,Notebook,Office Supplies,Central,Consumer,Retail Store,8,8.4,0.1,71.37,24.32,47.05
+ORD-10769,2025-09-12,Monitor,Technology,West,Corporate,Retail Store,3,272.97,0.1,810.72,502.99,307.73
+ORD-10770,2025-10-01,Desk Lamp,Furniture,North-East,Consumer,Online,1,58.07,0.15,49.36,24.76,24.6
+ORD-10771,2025-10-23,Monitor,Technology,Central,Corporate,Retail Store,3,284.51,0,1007.17,519.77,487.4
+ORD-10772,2024-07-16,Backpack,Accessories,West,Corporate,B2B Sales,5,87.98,0.05,505.67,186.45,319.22
+ORD-10773,2025-11-05,USB-C Hub,Accessories,Central,Consumer,Online,8,62.95,0.05,705.67,240.58,465.09
+ORD-10774,2025-08-26,Laptop,Technology,North,Consumer,Online,3,942.15,0,2600.33,1837.73,762.6
+ORD-10775,2024-04-11,Printer Paper,Office Supplies,East,Consumer,Retail Store,3,14.86,0.05,44.47,20.83,23.64
+ORD-10776,2025-09-21,USB-C Hub,Accessories,Central,Corporate,Online,3,64.48,0.05,216.85,90.24,126.61
+ORD-10777,2025-01-19,Laptop Stand,Accessories,Central,Consumer,Retail Store,4,45.42,0.1,192.94,80.56,112.38
+ORD-10778,2024-04-27,Keyboard,Technology,North-East,Corporate,Online,1,76.75,0.15,65.24,37.29,27.95
+ORD-10779,2025-07-21,Laptop Stand,Accessories,East,Corporate,Retail Store,4,44.57,0.05,195.62,78.87,116.75
+ORD-10780,2025-10-13,Pen Set,Office Supplies,North,Corporate,Online,5,12.17,0.05,53.18,20.88,32.3
+ORD-10781,2025-04-07,Mouse,Technology,West,Consumer,B2B Sales,1,42.13,0.05,44.03,18.39,25.64
+ORD-10782,2025-11-27,Printer Paper,Office Supplies,East,Corporate,Retail Store,1,14.64,0.05,18.25,6.89,11.36
+ORD-10783,2024-04-01,Notebook,Office Supplies,East,Corporate,B2B Sales,9,7.85,0.05,70.47,27.98,42.49
+ORD-10784,2025-11-29,Phone Charger,Accessories,North-East,Consumer,Retail Store,6,29.82,0.05,212.47,73.58,138.89
+ORD-10785,2024-01-17,USB-C Hub,Accessories,Central,Corporate,Online,1,66.77,0.05,74.85,31.28,43.57
+ORD-10786,2025-12-21,Desk Organizer,Office Supplies,West,Consumer,B2B Sales,2,25.35,0.15,59.26,22.82,36.44
+ORD-10787,2025-03-31,Bookshelf,Furniture,North-East,Small Business,Online,1,186.62,0.1,167.96,93.16,74.8
+ORD-10788,2025-04-18,Pen Set,Office Supplies,North-East,Consumer,Retail Store,5,12.34,0.1,55.53,19.87,35.66
+ORD-10789,2025-09-20,Standing Desk,Furniture,East,Small Business,B2B Sales,1,524.83,0.1,495.96,316.95,179.01
+ORD-10790,2024-01-08,Webcam,Technology,North-East,Consumer,Online,1,107.48,0,107.48,59.84,47.64
+ORD-10791,2025-11-19,Drawer Cabinet,Furniture,East,Consumer,Online,1,157.75,0.05,196.69,87.64,109.05
+ORD-10792,2025-06-19,Bookshelf,Furniture,East,Small Business,Online,3,185.0,0.1,524.48,292.88,231.6
+ORD-10793,2025-04-09,Mouse,Technology,Central,Small Business,Online,3,40.03,0,141.71,54.88,86.83
+ORD-10794,2025-05-22,Notebook,Office Supplies,East,Consumer,B2B Sales,8,7.93,0.05,63.28,24.08,39.2
+ORD-10795,2025-08-08,Standing Desk,Furniture,North-East,Small Business,B2B Sales,1,516.32,0,516.32,317.37,198.95
+ORD-10796,2024-01-29,Notebook,Office Supplies,West,Corporate,B2B Sales,7,7.88,0.05,57.64,21.99,35.65
+ORD-10797,2024-02-25,Backpack,Accessories,East,Small Business,Retail Store,9,88.09,0.1,749.21,349.02,400.19
+ORD-10798,2024-03-28,Laptop Stand,Accessories,North-East,Consumer,B2B Sales,2,46.72,0,93.44,41.45,51.99
+ORD-10799,2024-02-26,Webcam,Technology,North-East,Consumer,Retail Store,2,108.84,0.05,206.8,114.46,92.34
+ORD-10800,2025-02-24,Headset,Technology,West,Consumer,Online,2,99.56,0.1,197.13,90.34,106.79
+ORD-10801,2025-11-22,Desk Lamp,Furniture,West,Consumer,Online,1,56.07,0,77.1,24.85,52.25
+ORD-10802,2024-07-17,USB-C Hub,Accessories,West,Consumer,Online,8,63.61,0,615.74,235.94,379.8
+ORD-10803,2024-05-10,Mouse,Technology,West,Small Business,Retail Store,1,41.94,0.1,41.52,17.83,23.69
+ORD-10804,2024-11-12,Bookshelf,Furniture,North,Small Business,Retail Store,1,175.4,0,201.71,98.55,103.16
+ORD-10805,2025-07-26,Power Bank,Accessories,North,Consumer,Online,4,57.12,0.05,219.66,106.78,112.88
+ORD-10806,2025-12-12,Desk Lamp,Furniture,West,Corporate,B2B Sales,1,54.65,0,75.14,24.07,51.07
+ORD-10807,2024-04-17,Notebook,Office Supplies,North-East,Consumer,Online,4,8.23,0.05,31.27,11.94,19.33
+ORD-10808,2025-05-07,Bookshelf,Furniture,North-East,Consumer,Online,3,179.33,0,537.99,279.9,258.09
+ORD-10809,2024-04-27,Mouse,Technology,East,Corporate,B2B Sales,1,42.3,0,44.41,18.0,26.41
+ORD-10810,2024-08-12,USB-C Hub,Accessories,North,Small Business,Online,5,62.54,0.15,244.53,156.56,87.97
+ORD-10811,2024-01-22,USB-C Hub,Accessories,North-East,Corporate,B2B Sales,8,68.48,0,547.84,239.23,308.61
+ORD-10812,2025-01-16,Drawer Cabinet,Furniture,West,Small Business,B2B Sales,1,155.91,0.15,145.78,91.14,54.64
+ORD-10813,2024-07-15,File Folder Pack,Office Supplies,North,Consumer,Online,4,21.04,0.1,76.65,36.76,39.89
+ORD-10814,2025-07-02,Monitor,Technology,North,Consumer,Retail Store,1,272.34,0.05,261.83,173.55,88.28
+ORD-10815,2025-05-15,Laptop,Technology,North-East,Corporate,Retail Store,1,948.87,0.15,806.54,640.2,166.34
+ORD-10816,2025-01-18,Desk Organizer,Office Supplies,East,Consumer,Online,8,25.79,0.05,205.8,87.89,117.91
+ORD-10817,2025-02-14,Drawer Cabinet,Furniture,Central,Consumer,B2B Sales,1,157.35,0,185.67,88.86,96.81
+ORD-10818,2025-01-21,Printer Paper,Office Supplies,North,Corporate,Online,3,14.84,0.05,38.91,20.92,17.99
+ORD-10819,2024-02-12,Stapler,Office Supplies,North,Consumer,Online,7,17.94,0.05,109.76,55.95,53.81
+ORD-10820,2024-01-26,Monitor,Technology,North,Corporate,Online,1,292.39,0.05,255.55,174.26,81.29
+ORD-10821,2024-10-10,Laptop Stand,Accessories,Central,Consumer,Online,4,44.7,0.1,189.89,79.8,110.09
+ORD-10822,2025-11-30,USB-C Hub,Accessories,West,Small Business,B2B Sales,6,62.46,0,515.3,186.76,328.54
+ORD-10823,2025-02-17,Backpack,Accessories,Central,Consumer,Retail Store,3,88.96,0,314.92,117.49,197.43
+ORD-10824,2024-08-02,Stapler,Office Supplies,West,Corporate,Retail Store,11,17.89,0,216.47,91.45,125.02
+ORD-10825,2025-03-15,Desk Lamp,Furniture,East,Consumer,B2B Sales,1,53.56,0.15,47.8,24.03,23.77
+ORD-10826,2024-01-10,File Folder Pack,Office Supplies,North,Consumer,Online,7,20.73,0.1,120.15,63.06,57.09
+ORD-10827,2025-08-24,Laptop,Technology,East,Consumer,B2B Sales,1,971.83,0.1,918.38,633.98,284.4
+ORD-10828,2025-02-04,USB-C Hub,Accessories,North-East,Consumer,Online,8,63.11,0.05,479.64,242.79,236.85
+ORD-10829,2024-11-07,Laptop,Technology,West,Consumer,B2B Sales,2,914.55,0,2515.01,1294.3,1220.71
+ORD-10830,2025-01-30,Monitor,Technology,North,Corporate,Online,1,283.32,0,260.65,176.83,83.82
+ORD-10831,2025-02-24,Notebook,Office Supplies,East,Corporate,Online,3,7.99,0.15,21.39,8.95,12.44
+ORD-10832,2024-07-29,Webcam,Technology,North-East,Consumer,Retail Store,1,107.83,0.1,106.75,58.7,48.05
+ORD-10833,2024-07-25,Monitor,Technology,North-East,Consumer,Online,2,283.52,0.15,530.18,354.13,176.05
+ORD-10834,2025-04-16,Notebook,Office Supplies,Central,Consumer,B2B Sales,8,7.96,0.15,63.87,24.85,39.02
+ORD-10835,2025-02-04,Standing Desk,Furniture,North-East,Consumer,B2B Sales,2,523.01,0.15,889.12,615.56,273.56
+ORD-10836,2025-08-05,Webcam,Technology,Central,Consumer,B2B Sales,1,112.51,0,132.76,60.56,72.2
+ORD-10837,2025-12-15,Standing Desk,Furniture,North-East,Consumer,Retail Store,1,518.37,0.1,583.17,314.75,268.42
+ORD-10838,2024-11-29,Pen Set,Office Supplies,North,Consumer,Online,1,11.61,0.1,12.02,4.13,7.89
+ORD-10839,2025-01-25,Desk Organizer,Office Supplies,East,Consumer,Online,2,25.77,0,54.12,22.59,31.53
+ORD-10840,2025-04-20,Notebook,Office Supplies,Central,Corporate,Online,11,7.79,0.15,85.95,34.28,51.67
+ORD-10841,2024-06-23,Backpack,Accessories,Central,Consumer,Online,7,83.03,0.1,617.25,260.89,356.36
+ORD-10842,2024-10-06,Keyboard,Technology,East,Consumer,Online,2,73.62,0.1,139.14,78.93,60.21
+ORD-10843,2025-06-19,Office Chair,Furniture,North-East,Corporate,Online,1,212.27,0.05,201.66,124.27,77.39
+ORD-10844,2024-09-12,Pen Set,Office Supplies,East,Consumer,Online,1,11.92,0,12.52,4.11,8.41
+ORD-10845,2024-08-13,Laptop Stand,Accessories,East,Corporate,Online,3,46.87,0,147.64,61.43,86.21
+ORD-10846,2025-10-01,Headset,Technology,North-East,Small Business,Online,1,94.59,0,94.59,45.37,49.22
+ORD-10847,2024-11-19,Monitor,Technology,North-East,Consumer,Retail Store,1,286.27,0,357.84,177.14,180.7
+ORD-10848,2025-02-24,Headset,Technology,North-East,Small Business,Online,1,100.61,0.15,85.52,44.64,40.88
+ORD-10849,2024-04-07,File Folder Pack,Office Supplies,North-East,Corporate,B2B Sales,4,19.86,0.1,71.5,37.51,33.99
+ORD-10850,2024-11-21,Power Bank,Accessories,Central,Consumer,Retail Store,8,54.9,0.1,583.04,207.22,375.82
+ORD-10851,2025-08-24,Office Chair,Furniture,East,Consumer,Retail Store,1,216.4,0.05,215.86,124.63,91.23
+ORD-10852,2024-03-22,Keyboard,Technology,North-East,Consumer,Online,1,72.28,0.15,61.44,38.83,22.61
+ORD-10853,2025-03-30,Bookshelf,Furniture,East,Consumer,Retail Store,2,182.18,0.2,306.06,194.82,111.24
+ORD-10854,2024-10-22,Standing Desk,Furniture,North,Consumer,Online,1,546.92,0.2,402.53,321.19,81.34
+ORD-10855,2025-12-13,Drawer Cabinet,Furniture,North-East,Corporate,Online,1,154.63,0.05,183.62,92.11,91.51
+ORD-10856,2024-02-23,Standing Desk,Furniture,East,Consumer,Online,1,540.55,0,567.58,314.81,252.77
+ORD-10857,2025-03-12,Bookshelf,Furniture,East,Corporate,Online,1,177.28,0,186.14,96.08,90.06
+ORD-10858,2025-10-12,Mouse,Technology,Central,Small Business,Online,1,40.28,0.05,45.15,18.41,26.74
+ORD-10859,2025-03-19,Desk Lamp,Furniture,Central,Corporate,Online,1,57.79,0,68.19,24.42,43.77
+ORD-10860,2025-07-20,Bookshelf,Furniture,North-East,Consumer,Online,1,183.71,0,202.08,94.01,108.07
+ORD-10861,2025-04-25,Monitor,Technology,Central,Consumer,Retail Store,2,282.56,0.15,566.82,355.58,211.24
+ORD-10862,2025-01-17,Printer Paper,Office Supplies,West,Consumer,B2B Sales,2,14.98,0.05,31.31,13.91,17.4
+ORD-10863,2025-03-22,Phone Charger,Accessories,West,Corporate,Retail Store,8,30.89,0.1,244.65,100.31,144.34
+ORD-10864,2024-09-09,Laptop,Technology,North,Corporate,Retail Store,3,973.31,0,2686.34,1882.1,804.24
+ORD-10865,2025-11-28,Monitor,Technology,West,Corporate,Retail Store,1,272.07,0,374.1,175.07,199.03
+ORD-10866,2025-01-28,Stapler,Office Supplies,Central,Consumer,Online,7,17.58,0.05,137.95,57.59,80.36
+ORD-10867,2025-05-27,Power Bank,Accessories,West,Consumer,Online,2,53.4,0.05,111.61,53.86,57.75
+ORD-10868,2024-05-26,Monitor,Technology,North-East,Corporate,Online,1,282.57,0,282.57,175.81,106.76
+ORD-10869,2025-03-03,File Folder Pack,Office Supplies,North,Corporate,Online,8,19.57,0,144.04,73.01,71.03
+ORD-10870,2025-05-29,Power Bank,Accessories,West,Small Business,Online,1,56.92,0.15,53.22,25.83,27.39
+ORD-10871,2025-02-22,Stapler,Office Supplies,Central,Small Business,Online,6,17.43,0,123.4,47.26,76.14
+ORD-10872,2024-01-31,Desk Organizer,Office Supplies,North-East,Corporate,Online,1,24.67,0.2,19.74,11.29,8.45
+ORD-10873,2024-02-12,Headset,Technology,Central,Consumer,Retail Store,4,93.73,0.05,420.29,185.94,234.35
+ORD-10874,2025-09-10,Printer Paper,Office Supplies,North,Small Business,Retail Store,7,15.4,0.05,94.22,48.22,46.0
+ORD-10875,2024-12-30,Laptop Stand,Accessories,Central,Consumer,Retail Store,3,43.32,0,191.69,61.03,130.66
+ORD-10876,2025-12-17,Standing Desk,Furniture,North,Consumer,Retail Store,2,525.98,0.1,1088.78,607.74,481.04
+ORD-10877,2025-10-15,Phone Charger,Accessories,Central,Corporate,B2B Sales,8,30.83,0,291.04,97.34,193.7
+ORD-10878,2025-09-19,Bookshelf,Furniture,North-East,Small Business,B2B Sales,1,184.65,0.1,166.19,93.77,72.42
+ORD-10879,2025-01-29,Monitor,Technology,East,Small Business,B2B Sales,2,288.87,0,606.63,345.05,261.58
+ORD-10880,2024-03-30,Webcam,Technology,West,Small Business,Online,3,116.11,0.05,364.0,177.11,186.89
+ORD-10881,2024-09-06,Webcam,Technology,Central,Consumer,B2B Sales,1,115.82,0,136.67,58.4,78.27
+ORD-10882,2024-10-14,Keyboard,Technology,North-East,Small Business,Retail Store,2,78.92,0.1,142.06,77.1,64.96
+ORD-10883,2025-12-09,Pen Set,Office Supplies,West,Corporate,Retail Store,8,11.97,0.1,118.5,33.01,85.49
+ORD-10884,2025-01-25,Drawer Cabinet,Furniture,North-East,Small Business,Online,1,155.0,0,155.0,90.8,64.2
+ORD-10885,2024-07-11,Office Chair,Furniture,West,Consumer,B2B Sales,3,223.89,0,812.72,369.12,443.6
+ORD-10886,2025-07-02,Mouse,Technology,North-East,Consumer,Online,2,41.59,0.05,86.92,36.8,50.12
+ORD-10887,2024-08-15,Laptop,Technology,West,Small Business,Online,2,940.2,0,2068.44,1274.22,794.22
+ORD-10888,2024-05-30,Standing Desk,Furniture,Central,Corporate,Online,4,505.62,0.2,1909.22,1276.53,632.69
+ORD-10889,2025-05-04,Standing Desk,Furniture,North-East,Consumer,B2B Sales,1,541.33,0,541.33,319.35,221.98
+ORD-10890,2024-08-18,Office Chair,Furniture,East,Small Business,Retail Store,1,229.13,0.15,204.5,123.89,80.61
+ORD-10891,2024-01-23,Printer Paper,Office Supplies,North-East,Corporate,B2B Sales,9,14.99,0.05,128.16,62.99,65.17
+ORD-10892,2025-12-14,Backpack,Accessories,North-East,Consumer,Online,1,88.82,0.1,99.92,38.46,61.46
+ORD-10893,2024-06-16,Desk Organizer,Office Supplies,North-East,Consumer,Online,4,26.01,0,104.04,45.13,58.91
+ORD-10894,2025-01-05,Drawer Cabinet,Furniture,Central,Corporate,B2B Sales,1,168.81,0.05,189.24,91.42,97.82
+ORD-10895,2024-02-27,Mouse,Technology,East,Small Business,Online,1,39.75,0.05,39.65,17.83,21.82
+ORD-10896,2025-02-17,Laptop,Technology,East,Consumer,Online,2,928.39,0.1,1754.66,1282.54,472.12
+ORD-10897,2025-11-17,Desk Lamp,Furniture,North-East,Consumer,Retail Store,1,53.46,0,66.83,24.34,42.49
+ORD-10898,2025-11-15,USB-C Hub,Accessories,Central,Corporate,B2B Sales,11,64.18,0.1,937.19,341.75,595.44
+ORD-10899,2024-07-04,File Folder Pack,Office Supplies,North-East,Consumer,Online,6,19.33,0.15,108.44,55.93,52.51
+ORD-10900,2024-07-08,File Folder Pack,Office Supplies,Central,Consumer,Retail Store,8,19.33,0.15,170.61,73.28,97.33
+ORD-10901,2025-10-29,Monitor,Technology,Central,Consumer,Retail Store,1,284.33,0.15,285.18,168.06,117.12
+ORD-10902,2024-05-11,File Folder Pack,Office Supplies,East,Consumer,Online,1,19.37,0,20.34,9.01,11.33
+ORD-10903,2025-07-11,Webcam,Technology,Central,Consumer,Online,3,115.55,0,449.95,177.03,272.92
+ORD-10904,2024-05-23,File Folder Pack,Office Supplies,North,Corporate,B2B Sales,8,20.41,0.05,142.71,74.03,68.68
+ORD-10905,2025-11-09,Standing Desk,Furniture,Central,Consumer,Online,2,548.99,0.1,1457.57,616.98,840.59
+ORD-10906,2025-01-02,Webcam,Technology,West,Consumer,Retail Store,1,112.75,0,124.03,58.69,65.34
+ORD-10907,2024-09-17,Standing Desk,Furniture,West,Consumer,Retail Store,1,532.12,0.1,526.8,319.3,207.5
+ORD-10908,2025-07-31,Drawer Cabinet,Furniture,West,Consumer,B2B Sales,1,166.2,0.05,191.05,92.18,98.87
+ORD-10909,2024-09-10,Laptop,Technology,West,Consumer,Retail Store,1,972.82,0.05,1016.6,622.07,394.53
+ORD-10910,2024-10-06,Monitor,Technology,North,Consumer,Online,4,279.4,0,1028.19,710.46,317.73
+ORD-10911,2024-06-28,Printer Paper,Office Supplies,West,Small Business,Retail Store,7,15.45,0.15,101.12,49.91,51.21
+ORD-10912,2025-09-14,Laptop,Technology,East,Consumer,Retail Store,1,988.58,0.1,934.21,641.83,292.38
+ORD-10913,2025-07-18,Desk Organizer,Office Supplies,North-East,Corporate,Online,4,25.64,0,112.82,44.87,67.95
+ORD-10914,2024-09-30,Webcam,Technology,North,Corporate,Online,3,113.37,0,312.9,182.53,130.37
+ORD-10915,2025-04-24,Printer Paper,Office Supplies,North-East,Corporate,Retail Store,5,14.86,0.15,63.15,36.62,26.53
+ORD-10916,2025-02-20,Office Chair,Furniture,Central,Consumer,Online,1,223.86,0,264.15,125.0,139.15
+ORD-10917,2025-05-19,Office Chair,Furniture,North-East,Corporate,B2B Sales,1,222.15,0.1,199.94,128.42,71.52
+ORD-10918,2025-06-29,Desk Lamp,Furniture,Central,Corporate,B2B Sales,3,56.73,0.1,180.74,74.34,106.4
+ORD-10919,2024-09-07,Backpack,Accessories,West,Consumer,Online,3,87.33,0.15,244.96,115.9,129.06
+ORD-10920,2024-08-18,Keyboard,Technology,East,Consumer,B2B Sales,1,74.84,0.05,74.65,37.54,37.11
+ORD-10921,2025-11-26,Headset,Technology,Central,Consumer,Retail Store,1,91.22,0.1,121.09,45.34,75.75
+ORD-10922,2024-11-08,Backpack,Accessories,Central,Small Business,B2B Sales,9,82.09,0,1089.74,346.18,743.56
+ORD-10923,2024-11-01,Notebook,Office Supplies,North,Small Business,Online,7,7.69,0.05,58.81,20.87,37.94
+ORD-10924,2025-06-25,Pen Set,Office Supplies,North-East,Consumer,Retail Store,3,12.44,0,37.32,12.16,25.16
+ORD-10925,2025-01-18,Mouse,Technology,East,Corporate,Online,5,41.03,0.05,204.64,89.08,115.56
+ORD-10926,2025-03-20,Webcam,Technology,East,Consumer,Online,1,110.23,0,115.74,56.97,58.77
+ORD-10927,2025-11-13,Mouse,Technology,North,Consumer,Retail Store,1,41.13,0,47.3,18.59,28.71
+ORD-10928,2025-02-13,File Folder Pack,Office Supplies,North-East,Consumer,B2B Sales,1,19.45,0.05,18.48,8.83,9.65
+ORD-10929,2025-12-01,Webcam,Technology,North,Consumer,Retail Store,1,110.88,0,127.51,57.18,70.33
+ORD-10930,2025-03-15,Monitor,Technology,West,Consumer,Online,1,276.18,0.1,273.42,174.53,98.89
+ORD-10931,2025-03-15,Webcam,Technology,Central,Corporate,Retail Store,1,116.52,0.1,123.74,59.42,64.32
+ORD-10932,2024-08-22,Mouse,Technology,Central,Consumer,Online,1,38.47,0,45.39,18.73,26.66
+ORD-10933,2025-01-24,Printer Paper,Office Supplies,East,Consumer,Online,1,15.16,0.1,14.33,7.01,7.32
+ORD-10934,2024-10-02,Printer Paper,Office Supplies,North-East,Consumer,B2B Sales,3,14.46,0,43.38,21.67,21.71
+ORD-10935,2024-08-05,Keyboard,Technology,West,Consumer,Online,3,74.73,0,246.61,112.49,134.12
+ORD-10936,2024-01-14,Standing Desk,Furniture,North,Consumer,Retail Store,2,529.82,0.1,877.38,617.94,259.44
+ORD-10937,2024-10-09,Mouse,Technology,Central,Small Business,Online,2,38.88,0.1,82.58,37.58,45.0
+ORD-10938,2025-11-01,Standing Desk,Furniture,North-East,Small Business,Online,1,517.03,0.1,581.66,325.28,256.38
+ORD-10939,2024-07-25,Pen Set,Office Supplies,Central,Consumer,Online,5,12.59,0.1,73.54,20.78,52.76
+ORD-10940,2025-07-27,Phone Charger,Accessories,North-East,Corporate,Online,9,29.0,0.05,272.75,112.88,159.87
+ORD-10941,2025-05-30,Standing Desk,Furniture,West,Consumer,B2B Sales,1,548.9,0,603.79,324.9,278.89
+ORD-10942,2024-07-13,Desk Lamp,Furniture,North-East,Corporate,B2B Sales,4,53.71,0.1,212.69,96.66,116.03
+ORD-10943,2025-02-03,Printer Paper,Office Supplies,East,Consumer,Online,4,15.29,0,64.22,29.26,34.96
+ORD-10944,2025-06-09,File Folder Pack,Office Supplies,West,Consumer,B2B Sales,5,20.62,0.05,107.74,44.64,63.1
+ORD-10945,2024-02-16,Printer Paper,Office Supplies,Central,Corporate,B2B Sales,7,15.79,0,130.43,50.73,79.7
+ORD-10946,2025-10-19,USB-C Hub,Accessories,West,Consumer,Retail Store,6,64.51,0.2,340.61,187.54,153.07
+ORD-10947,2024-09-27,Desk Lamp,Furniture,West,Consumer,B2B Sales,1,52.86,0.05,55.24,24.75,30.49
+ORD-10948,2024-10-13,Laptop,Technology,West,Corporate,B2B Sales,4,967.41,0.1,3830.94,2549.86,1281.08
+ORD-10949,2025-10-31,Webcam,Technology,West,Corporate,Retail Store,1,108.56,0.1,107.47,60.12,47.35
+ORD-10950,2025-02-08,Monitor,Technology,North-East,Consumer,B2B Sales,1,273.88,0,273.88,176.86,97.02
+ORD-10951,2024-07-12,File Folder Pack,Office Supplies,East,Corporate,Online,4,20.97,0.15,82.35,37.01,45.34
+ORD-10952,2024-07-11,Laptop,Technology,North-East,Consumer,B2B Sales,4,921.52,0.05,3851.95,2556.57,1295.38
+ORD-10953,2024-01-13,Desk Lamp,Furniture,North-East,Consumer,B2B Sales,2,56.34,0,112.68,47.87,64.81
+ORD-10954,2024-03-26,Webcam,Technology,West,Consumer,B2B Sales,4,106.77,0.1,422.81,232.86,189.95
+ORD-10955,2025-12-25,Monitor,Technology,North-East,Corporate,B2B Sales,3,277.41,0.05,988.27,508.5,479.77
+ORD-10956,2025-07-10,Drawer Cabinet,Furniture,Central,Consumer,Online,1,155.24,0.15,171.28,88.8,82.48
+ORD-10957,2024-01-02,Laptop Stand,Accessories,East,Consumer,Online,5,44.22,0.15,197.33,100.69,96.64
+ORD-10958,2024-04-25,Notebook,Office Supplies,East,Consumer,B2B Sales,6,7.74,0,48.76,18.09,30.67
+ORD-10959,2024-03-27,Backpack,Accessories,East,Consumer,Retail Store,3,87.38,0,275.25,117.04,158.21
+ORD-10960,2024-11-04,Bookshelf,Furniture,North,Small Business,Online,1,179.44,0,206.36,99.13,107.23
+ORD-10961,2024-03-19,Standing Desk,Furniture,East,Consumer,Online,2,540.05,0.05,1077.4,610.52,466.88
+ORD-10962,2025-08-14,File Folder Pack,Office Supplies,North,Consumer,Online,3,19.56,0.05,51.29,27.06,24.23
+ORD-10963,2025-03-10,Desk Organizer,Office Supplies,West,Corporate,Online,5,24.96,0.05,130.42,55.97,74.45
+ORD-10964,2025-05-19,Pen Set,Office Supplies,North-East,Consumer,Retail Store,4,12.36,0,49.44,15.68,33.76
+ORD-10965,2024-01-18,Desk Organizer,Office Supplies,East,Small Business,Online,7,24.9,0.15,155.56,79.66,75.9
+ORD-10966,2024-05-22,Monitor,Technology,West,Small Business,B2B Sales,1,291.98,0,321.18,168.24,152.94
+ORD-10967,2025-12-13,Desk Lamp,Furniture,Central,Corporate,Online,1,53.38,0.1,70.86,24.32,46.54
+ORD-10968,2025-08-31,Laptop Stand,Accessories,East,Consumer,Online,2,43.26,0.15,77.22,40.37,36.85
+ORD-10969,2024-07-05,Pen Set,Office Supplies,West,Corporate,Online,9,12.39,0.05,128.18,36.91,91.27
+ORD-10970,2024-01-14,Monitor,Technology,Central,Small Business,Online,2,282.89,0,667.62,353.02,314.6
+ORD-10971,2025-11-27,Power Bank,Accessories,West,Corporate,Online,7,56.7,0.05,518.45,180.36,338.09
+ORD-10972,2024-04-04,Pen Set,Office Supplies,East,Consumer,Online,7,11.74,0.1,77.66,28.54,49.12
+ORD-10973,2024-03-20,Desk Lamp,Furniture,North-East,Consumer,Retail Store,2,53.71,0.15,91.31,49.21,42.1
+ORD-10974,2024-07-18,Laptop,Technology,Central,Consumer,Retail Store,1,934.76,0,1213.32,612.22,601.1
+ORD-10975,2024-08-04,Printer Paper,Office Supplies,East,Corporate,Retail Store,1,14.76,0,15.5,7.14,8.36
+ORD-10976,2024-02-15,Desk Organizer,Office Supplies,Central,Consumer,Online,5,24.02,0.05,134.63,54.99,79.64
+ORD-10977,2025-02-11,Printer Paper,Office Supplies,North-East,Corporate,B2B Sales,3,14.9,0.15,38.0,21.32,16.68
+ORD-10978,2025-05-29,Standing Desk,Furniture,Central,Corporate,Online,1,543.51,0,641.34,307.09,334.25
+ORD-10979,2025-04-19,Webcam,Technology,Central,Small Business,Online,1,113.1,0,133.46,59.76,73.7
+ORD-10980,2025-05-28,File Folder Pack,Office Supplies,West,Corporate,B2B Sales,8,20.09,0,176.79,72.03,104.76
+ORD-10981,2025-09-30,Power Bank,Accessories,Central,Small Business,Retail Store,8,54.12,0.2,408.71,212.68,196.03
+ORD-10982,2024-06-05,Desk Organizer,Office Supplies,Central,Small Business,Online,6,25.37,0.2,143.7,68.29,75.41
+ORD-10983,2024-03-30,Desk Organizer,Office Supplies,North,Consumer,Online,2,24.7,0.05,43.18,21.7,21.48
+ORD-10984,2024-07-02,Desk Lamp,Furniture,North,Small Business,B2B Sales,2,55.23,0.15,95.02,50.2,44.82
+ORD-10985,2025-08-05,Printer Paper,Office Supplies,North,Consumer,B2B Sales,3,15.06,0.05,39.49,21.5,17.99
+ORD-10986,2024-11-17,File Folder Pack,Office Supplies,North-East,Consumer,Online,1,20.44,0.1,23.0,9.29,13.71
+ORD-10987,2024-09-07,Drawer Cabinet,Furniture,Central,Consumer,Online,1,162.72,0.15,163.21,87.61,75.6
+ORD-10988,2025-04-18,Bookshelf,Furniture,North-East,Consumer,Retail Store,2,174.76,0,349.52,187.64,161.88
+ORD-10989,2025-02-10,Standing Desk,Furniture,North-East,Consumer,Online,3,524.49,0.1,1416.12,942.4,473.72
+ORD-10990,2024-10-12,Stapler,Office Supplies,East,Small Business,Online,5,17.86,0,93.77,40.88,52.89
+ORD-10991,2025-01-24,Keyboard,Technology,North-East,Small Business,Online,1,72.17,0.1,64.95,38.36,26.59
+ORD-10992,2024-09-15,Office Chair,Furniture,East,Consumer,Online,1,226.87,0.15,202.48,127.09,75.39
+ORD-10993,2025-11-16,USB-C Hub,Accessories,Central,Consumer,B2B Sales,6,68.66,0,607.64,178.9,428.74
+ORD-10994,2025-03-05,Stapler,Office Supplies,East,Small Business,Online,8,18.76,0.05,149.7,66.72,82.98
+ORD-10995,2024-07-22,Webcam,Technology,West,Corporate,Online,5,115.93,0.1,631.24,299.16,332.08
+ORD-10996,2024-11-20,Mouse,Technology,East,Consumer,Online,2,41.1,0,107.89,37.1,70.79
+ORD-10997,2025-04-06,USB-C Hub,Accessories,North-East,Corporate,Retail Store,1,63.82,0.2,51.06,30.28,20.78
+ORD-10998,2025-07-13,Drawer Cabinet,Furniture,North-East,Consumer,Online,1,164.47,0.2,144.73,88.52,56.21
+ORD-10999,2025-01-07,Keyboard,Technology,West,Small Business,Online,1,79.49,0.05,83.07,38.18,44.89
+ORD-11000,2025-07-09,Printer Paper,Office Supplies,Central,Small Business,Online,7,14.67,0.1,119.96,49.88,70.08
+ORD-11001,2025-01-25,Webcam,Technology,North-East,Corporate,Retail Store,4,115.56,0,462.24,228.78,233.46
+ORD-11002,2024-04-16,Laptop,Technology,West,Small Business,Online,2,971.26,0.05,2029.93,1270.19,759.74
+ORD-11003,2025-05-30,Notebook,Office Supplies,North,Small Business,Online,9,8.12,0,67.23,28.08,39.15
+ORD-11004,2024-05-07,Desk Organizer,Office Supplies,North-East,Small Business,Retail Store,8,24.02,0.05,182.55,87.62,94.93
+ORD-11005,2024-10-17,Webcam,Technology,North,Consumer,B2B Sales,3,113.01,0,311.91,181.59,130.32
+ORD-11006,2024-02-03,Monitor,Technology,North,Small Business,Retail Store,2,277.69,0,510.95,346.82,164.13
+ORD-11007,2025-03-16,Mouse,Technology,East,Corporate,Online,1,42.13,0.05,42.02,18.82,23.2
+ORD-11008,2025-02-03,USB-C Hub,Accessories,North-East,Small Business,Retail Store,8,63.9,0.1,460.08,237.32,222.76
+ORD-11009,2024-05-01,Desk Lamp,Furniture,North,Small Business,Online,1,53.31,0,49.05,23.54,25.51
+ORD-11010,2025-08-30,Headset,Technology,West,Small Business,Online,1,98.25,0,108.08,45.53,62.55
+ORD-11011,2025-10-08,Standing Desk,Furniture,East,Corporate,Online,1,542.9,0.1,513.04,321.31,191.73
+ORD-11012,2025-01-22,Office Chair,Furniture,North,Consumer,Online,1,232.87,0.15,182.1,123.47,58.63
+ORD-11013,2025-09-02,Monitor,Technology,North,Consumer,Online,1,292.45,0.15,228.7,169.07,59.63
+ORD-11014,2024-04-13,Notebook,Office Supplies,North-East,Consumer,B2B Sales,2,7.85,0.05,14.91,6.25,8.66
+ORD-11015,2025-10-10,USB-C Hub,Accessories,East,Consumer,B2B Sales,1,63.16,0.05,63.0,30.13,32.87
+ORD-11016,2025-09-20,Notebook,Office Supplies,East,Corporate,Online,3,7.83,0,24.66,8.83,15.83
+ORD-11017,2025-06-08,Standing Desk,Furniture,North,Consumer,Online,1,510.63,0.1,422.8,324.19,98.61
+ORD-11018,2024-10-01,Monitor,Technology,Central,Consumer,Retail Store,1,289.67,0.05,324.72,172.7,152.02
+ORD-11019,2025-02-13,Phone Charger,Accessories,East,Consumer,B2B Sales,5,31.69,0,166.37,62.13,104.24
+ORD-11020,2025-08-24,Monitor,Technology,North-East,Consumer,Online,2,276.41,0,552.82,335.76,217.06
+ORD-11021,2025-01-27,Stapler,Office Supplies,North,Consumer,Retail Store,2,18.09,0.15,28.29,16.75,11.54
+ORD-11022,2024-09-16,Printer Paper,Office Supplies,West,Small Business,Retail Store,7,15.0,0,115.5,50.8,64.7
+ORD-11023,2025-03-15,Bookshelf,Furniture,East,Consumer,Retail Store,1,186.83,0,196.17,95.22,100.95
+ORD-11024,2024-01-12,Standing Desk,Furniture,North-East,Corporate,Online,1,502.64,0,502.64,308.4,194.24
+ORD-11025,2024-08-10,Keyboard,Technology,West,Small Business,Retail Store,2,76.3,0.1,151.07,78.11,72.96
+ORD-11026,2025-03-21,Keyboard,Technology,East,Consumer,Retail Store,1,79.43,0.05,79.23,37.57,41.66
+ORD-11027,2024-06-24,Drawer Cabinet,Furniture,North-East,Consumer,Online,1,166.13,0.05,157.82,86.27,71.55
+ORD-11028,2025-04-17,Mouse,Technology,Central,Small Business,B2B Sales,1,40.98,0,48.36,17.76,30.6
+ORD-11029,2025-03-01,Bookshelf,Furniture,North,Corporate,Online,1,178.44,0.1,147.75,95.72,52.03
+ORD-11030,2025-12-14,Power Bank,Accessories,Central,Small Business,B2B Sales,2,52.96,0,156.23,51.0,105.23
+ORD-11031,2024-04-17,Power Bank,Accessories,East,Consumer,Online,6,57.29,0.05,342.88,152.93,189.95
+ORD-11032,2025-12-05,Phone Charger,Accessories,Central,Consumer,B2B Sales,2,29.59,0.1,78.56,24.85,53.71
+ORD-11033,2025-01-23,Monitor,Technology,East,Corporate,Online,1,272.94,0.1,257.93,176.72,81.21
+ORD-11034,2025-02-27,Office Chair,Furniture,West,Corporate,Retail Store,1,232.68,0,255.95,128.9,127.05
+ORD-11035,2024-08-19,Keyboard,Technology,Central,Consumer,B2B Sales,1,76.85,0.15,77.08,39.09,37.99
+ORD-11036,2024-03-17,Laptop Stand,Accessories,East,Consumer,Online,7,44.05,0,323.77,139.24,184.53
+ORD-11037,2025-08-27,Drawer Cabinet,Furniture,North,Corporate,Online,1,156.06,0.05,136.4,91.87,44.53
+ORD-11038,2024-08-12,Power Bank,Accessories,North-East,Small Business,Retail Store,8,53.83,0,430.64,206.23,224.41
+ORD-11039,2024-11-10,Backpack,Accessories,Central,Consumer,B2B Sales,2,83.64,0.15,209.73,75.47,134.26
+ORD-11040,2024-01-30,Stapler,Office Supplies,North-East,Consumer,Online,2,17.92,0,35.84,16.12,19.72
+ORD-11041,2025-03-17,Notebook,Office Supplies,North-East,Consumer,Online,7,8.27,0.05,55.0,21.01,33.99
+ORD-11042,2025-02-16,Keyboard,Technology,West,Corporate,Retail Store,1,72.37,0,79.61,37.54,42.07
+ORD-11043,2024-04-27,Laptop,Technology,West,Consumer,Online,1,933.51,0.1,924.17,638.67,285.5
+ORD-11044,2025-02-05,Pen Set,Office Supplies,North,Consumer,Online,4,11.94,0,43.94,16.35,27.59
+ORD-11045,2024-01-04,Headset,Technology,West,Consumer,Online,3,93.47,0,308.45,132.96,175.49
+ORD-11046,2024-07-10,Desk Organizer,Office Supplies,East,Small Business,Retail Store,8,24.84,0,229.52,87.87,141.65
+ORD-11047,2024-03-19,Laptop,Technology,West,Consumer,Online,1,994.96,0.05,1039.73,609.56,430.17
+ORD-11048,2024-01-18,Printer Paper,Office Supplies,East,Corporate,Online,4,15.56,0,65.35,29.02,36.33
+ORD-11049,2024-12-09,File Folder Pack,Office Supplies,North,Small Business,Online,9,19.71,0.05,193.8,84.07,109.73
+ORD-11050,2024-11-04,Drawer Cabinet,Furniture,West,Consumer,Online,1,163.84,0,225.28,88.77,136.51
+ORD-11051,2024-08-13,Standing Desk,Furniture,North,Consumer,Online,2,549.81,0.05,961.07,639.91,321.16
+ORD-11052,2024-07-17,Power Bank,Accessories,Central,Small Business,B2B Sales,9,58.23,0.15,578.21,232.19,346.02
+ORD-11053,2025-11-26,Printer Paper,Office Supplies,North-East,Corporate,B2B Sales,7,14.86,0,130.03,49.8,80.23
+ORD-11054,2024-12-17,Laptop Stand,Accessories,North-East,Corporate,Retail Store,8,44.5,0.2,356.0,162.39,193.61
+ORD-11055,2025-12-02,Webcam,Technology,East,Corporate,Online,3,107.39,0.05,401.71,171.31,230.4
+ORD-11056,2024-10-28,Laptop,Technology,East,Consumer,Retail Store,1,941.05,0.05,938.7,636.25,302.45
+ORD-11057,2024-01-01,Monitor,Technology,North,Small Business,Retail Store,1,295.64,0.05,258.39,177.95,80.44
+ORD-11058,2025-12-31,Webcam,Technology,East,Consumer,B2B Sales,1,105.95,0.15,118.2,57.85,60.35
+ORD-11059,2025-11-25,Desk Lamp,Furniture,North-East,Small Business,Online,1,54.46,0,68.08,24.47,43.61
+ORD-11060,2025-11-26,Backpack,Accessories,East,Corporate,Online,4,85.14,0,446.99,152.21,294.78
+ORD-11061,2024-10-31,File Folder Pack,Office Supplies,North-East,Corporate,Online,9,19.39,0.05,165.78,83.32,82.46
+ORD-11062,2025-05-30,Phone Charger,Accessories,North-East,Consumer,Online,7,30.18,0.15,179.57,82.48,97.09
+ORD-11063,2025-03-07,Monitor,Technology,West,Small Business,Retail Store,2,279.25,0.1,552.92,354.62,198.3
+ORD-11064,2024-10-27,Mouse,Technology,East,Consumer,Online,2,41.9,0.05,83.59,35.42,48.17
+ORD-11065,2024-02-26,Webcam,Technology,Central,Consumer,Online,1,110.9,0,130.86,57.09,73.77
+ORD-11066,2025-08-21,Office Chair,Furniture,East,Consumer,Retail Store,3,214.2,0.15,573.52,384.29,189.23
+ORD-11067,2024-06-07,Keyboard,Technology,Central,Small Business,Retail Store,1,72.5,0,85.55,39.58,45.97
+ORD-11068,2025-06-16,Monitor,Technology,Central,Consumer,B2B Sales,1,270.36,0,319.02,171.41,147.61
+ORD-11069,2024-07-07,Backpack,Accessories,North,Small Business,Retail Store,2,85.28,0.1,155.35,75.46,79.89
+ORD-11070,2025-11-04,Headset,Technology,West,Consumer,Retail Store,1,92.15,0.1,114.04,45.26,68.78
+ORD-11071,2024-10-08,File Folder Pack,Office Supplies,Central,Consumer,Retail Store,3,19.26,0.05,64.77,27.53,37.24
+ORD-11072,2024-01-12,Notebook,Office Supplies,West,Consumer,B2B Sales,6,8.45,0.05,52.98,18.55,34.43
+ORD-11073,2024-10-10,Monitor,Technology,North,Consumer,B2B Sales,1,294.07,0.05,257.02,172.71,84.31
+ORD-11074,2024-06-27,Bookshelf,Furniture,West,Consumer,Retail Store,2,177.81,0.1,352.06,190.23,161.83
+ORD-11075,2025-02-07,Webcam,Technology,North-East,Consumer,Online,2,111.94,0.15,190.3,119.98,70.32
+ORD-11076,2025-06-22,Webcam,Technology,North,Corporate,Retail Store,3,114.73,0,316.65,170.88,145.77
+ORD-11077,2024-06-11,Webcam,Technology,Central,Consumer,Retail Store,1,108.15,0.1,114.86,60.56,54.3
+ORD-11078,2024-08-30,Monitor,Technology,North-East,Corporate,Online,1,285.93,0,285.93,176.68,109.25
+ORD-11079,2024-03-15,Printer Paper,Office Supplies,West,Corporate,Online,4,14.88,0.1,58.92,28.18,30.74
+ORD-11080,2025-10-14,Pen Set,Office Supplies,East,Consumer,Online,5,11.79,0.1,55.71,20.21,35.5
+ORD-11081,2025-06-25,Standing Desk,Furniture,Central,Corporate,Retail Store,1,509.78,0.15,511.31,323.18,188.13
+ORD-11082,2025-01-03,Drawer Cabinet,Furniture,West,Small Business,Online,2,168.92,0.1,334.46,178.99,155.47
+ORD-11083,2024-07-13,Backpack,Accessories,North-East,Consumer,Online,3,88.41,0.05,277.17,116.71,160.46
+ORD-11084,2024-03-13,Pen Set,Office Supplies,West,Consumer,Online,4,11.58,0.05,48.4,15.71,32.69
+ORD-11085,2024-10-23,Phone Charger,Accessories,North-East,Corporate,Online,4,31.7,0,126.8,48.97,77.83
+ORD-11086,2025-06-14,Backpack,Accessories,North,Consumer,Online,2,86.55,0.15,135.36,79.72,55.64
+ORD-11087,2025-10-30,Keyboard,Technology,North-East,Consumer,Online,2,73.04,0.05,138.78,78.38,60.4
+ORD-11088,2025-11-10,Laptop Stand,Accessories,East,Consumer,Retail Store,1,44.76,0,58.75,20.18,38.57
+ORD-11089,2025-09-19,Backpack,Accessories,North-East,Small Business,Online,1,82.48,0.05,78.36,37.84,40.52
+ORD-11090,2024-12-24,Printer Paper,Office Supplies,East,Consumer,Online,4,15.2,0.15,67.83,28.78,39.05
+ORD-11091,2024-01-19,Notebook,Office Supplies,North-East,Corporate,Retail Store,9,8.24,0.05,70.45,26.68,43.77
+ORD-11092,2024-04-30,Phone Charger,Accessories,North,Consumer,Online,1,29.51,0,27.15,11.77,15.38
+ORD-11093,2025-02-26,Drawer Cabinet,Furniture,West,Consumer,Retail Store,2,157.6,0,346.72,173.18,173.54
+ORD-11094,2025-03-25,Laptop,Technology,North,Consumer,Retail Store,1,939.78,0.1,778.14,628.38,149.76
+ORD-11095,2024-05-05,Office Chair,Furniture,North,Small Business,Online,2,229.1,0.15,358.31,260.03,98.28
+ORD-11096,2025-03-30,Bookshelf,Furniture,West,Consumer,Retail Store,1,177.62,0.1,175.84,96.45,79.39
+ORD-11097,2024-02-25,Desk Organizer,Office Supplies,West,Consumer,Online,3,26.1,0.05,81.82,33.04,48.78
+ORD-11098,2025-07-20,Keyboard,Technology,East,Consumer,Online,1,77.73,0.2,71.82,37.3,34.52
+ORD-11099,2024-02-04,Headset,Technology,North-East,Consumer,B2B Sales,1,99.32,0.05,94.35,44.16,50.19
+ORD-11100,2025-01-26,Notebook,Office Supplies,East,Consumer,Online,7,8.11,0.1,53.65,20.63,33.02
+ORD-11101,2024-12-22,Backpack,Accessories,North,Small Business,B2B Sales,5,88.04,0.05,480.92,197.23,283.69
+ORD-11102,2025-03-20,Laptop Stand,Accessories,Central,Corporate,B2B Sales,7,47.06,0.15,330.41,141.74,188.67
+ORD-11103,2025-08-09,Drawer Cabinet,Furniture,North,Consumer,Online,2,168.39,0,309.84,172.67,137.17
+ORD-11104,2025-11-29,Laptop Stand,Accessories,East,Corporate,Online,9,43.37,0,512.31,179.79,332.52
+ORD-11105,2024-09-13,Drawer Cabinet,Furniture,Central,Consumer,Retail Store,1,157.83,0,186.24,89.09,97.15
+ORD-11106,2025-03-26,Laptop,Technology,North,Consumer,B2B Sales,1,917.57,0.15,717.54,619.6,97.94
+ORD-11107,2025-09-16,Notebook,Office Supplies,North-East,Consumer,Retail Store,5,7.89,0.05,37.48,14.94,22.54
+ORD-11108,2024-06-27,Headset,Technology,Central,Consumer,Retail Store,1,96.01,0.05,107.63,45.1,62.53
+ORD-11109,2025-07-20,Office Chair,Furniture,North,Small Business,Online,2,229.89,0.05,442.03,245.78,196.25
+ORD-11110,2024-08-28,Notebook,Office Supplies,West,Consumer,Retail Store,4,7.84,0.05,32.77,12.46,20.31
+ORD-11111,2025-11-28,File Folder Pack,Office Supplies,North-East,Small Business,Online,7,20.41,0.05,169.66,66.04,103.62
+ORD-11112,2025-10-29,Printer Paper,Office Supplies,West,Consumer,Online,5,15.8,0.15,73.86,34.36,39.5
+ORD-11113,2025-09-15,Keyboard,Technology,West,Corporate,Retail Store,3,77.35,0.15,216.97,114.74,102.23
+ORD-11114,2025-08-19,Webcam,Technology,East,Consumer,B2B Sales,1,106.45,0.15,95.01,57.75,37.26
+ORD-11115,2025-05-30,Backpack,Accessories,North-East,Corporate,Online,1,86.76,0.1,78.08,38.62,39.46
+ORD-11116,2024-11-20,Headset,Technology,North,Small Business,Online,2,100.49,0,231.13,90.18,140.95
+ORD-11117,2024-04-28,Desk Lamp,Furniture,North-East,Consumer,Online,1,57.83,0.1,52.05,24.54,27.51
+ORD-11118,2025-04-04,Standing Desk,Furniture,West,Small Business,B2B Sales,3,511.94,0.15,1435.99,955.28,480.71
+ORD-11119,2025-11-12,Keyboard,Technology,North,Consumer,Online,1,75.79,0,87.16,38.55,48.61
+ORD-11120,2024-07-21,Power Bank,Accessories,Central,Consumer,Online,8,56.89,0,590.75,204.34,386.41
+ORD-11121,2025-03-17,Monitor,Technology,Central,Consumer,B2B Sales,3,294.12,0.05,989.13,514.16,474.97
+ORD-11122,2025-07-24,Keyboard,Technology,Central,Consumer,B2B Sales,1,76.57,0,99.39,39.16,60.23
+ORD-11123,2024-03-16,Bookshelf,Furniture,North-East,Small Business,Retail Store,2,180.64,0.1,325.15,195.51,129.64
+ORD-11124,2024-07-06,Drawer Cabinet,Furniture,West,Consumer,B2B Sales,1,159.52,0.1,173.72,88.58,85.14
+ORD-11125,2025-03-25,Webcam,Technology,West,Consumer,Retail Store,1,111.03,0,122.13,58.94,63.19
+ORD-11126,2025-06-21,Desk Organizer,Office Supplies,North,Consumer,Online,3,26.38,0,72.81,34.52,38.29
+ORD-11127,2024-08-03,Printer Paper,Office Supplies,West,Small Business,Online,7,14.83,0,114.19,48.96,65.23
+ORD-11128,2025-03-25,Monitor,Technology,North,Small Business,Online,2,271.77,0,500.06,339.83,160.23
+ORD-11129,2024-04-08,Headset,Technology,East,Consumer,B2B Sales,4,96.33,0.1,364.13,176.48,187.65
+ORD-11130,2024-01-27,Printer Paper,Office Supplies,West,Consumer,Online,3,15.65,0,51.65,20.74,30.91
+ORD-11131,2025-12-24,Laptop Stand,Accessories,North-East,Small Business,Retail Store,2,47.09,0.2,94.18,41.25,52.93
+ORD-11132,2024-04-29,Laptop Stand,Accessories,East,Corporate,Online,8,44.44,0.1,335.97,162.54,173.43
+ORD-11133,2024-03-16,Bookshelf,Furniture,Central,Consumer,B2B Sales,2,178.52,0.15,358.11,194.99,163.12
+ORD-11134,2025-10-03,Webcam,Technology,Central,Consumer,Retail Store,3,108.02,0,382.39,176.25,206.14
+ORD-11135,2025-05-11,Desk Lamp,Furniture,North,Consumer,Retail Store,1,55.64,0.1,46.07,23.88,22.19
+ORD-11136,2025-03-20,Headset,Technology,West,Consumer,Online,1,93.7,0.05,97.92,45.94,51.98
+ORD-11137,2025-10-15,Stapler,Office Supplies,East,Small Business,B2B Sales,6,18.48,0.05,110.6,49.16,61.44
+ORD-11138,2025-09-04,Desk Organizer,Office Supplies,North,Consumer,Online,5,25.05,0.05,109.47,54.85,54.62
+ORD-11139,2025-03-11,Mouse,Technology,North,Corporate,Online,1,38.91,0.15,30.43,18.7,11.73
+ORD-11140,2025-05-15,Standing Desk,Furniture,Central,Consumer,Retail Store,2,539.91,0,1274.19,641.1,633.09
+ORD-11141,2024-09-24,Desk Lamp,Furniture,North-East,Small Business,Online,1,53.1,0.05,50.45,23.89,26.56
+ORD-11142,2025-10-13,Bookshelf,Furniture,North-East,Consumer,Retail Store,1,176.51,0.1,158.86,99.4,59.46
+ORD-11143,2025-09-20,Standing Desk,Furniture,West,Corporate,B2B Sales,1,518.92,0.1,513.73,311.03,202.7
+ORD-11144,2024-12-27,Drawer Cabinet,Furniture,Central,Corporate,Retail Store,1,156.78,0,231.25,89.54,141.71
+ORD-11145,2024-08-22,Monitor,Technology,North,Consumer,Online,2,295.12,0,543.02,333.68,209.34
+ORD-11146,2025-06-23,Mouse,Technology,North-East,Consumer,Online,1,40.93,0.1,36.84,17.68,19.16
+ORD-11147,2024-05-06,Desk Lamp,Furniture,North-East,Consumer,Retail Store,1,53.27,0,53.27,24.73,28.54
+ORD-11148,2025-03-01,Webcam,Technology,West,Corporate,Online,3,114.32,0,377.26,177.9,199.36
+ORD-11149,2024-11-15,Desk Lamp,Furniture,West,Corporate,Online,1,53.35,0.2,58.69,24.49,34.2
+ORD-11150,2025-01-20,Laptop,Technology,East,Small Business,Retail Store,1,998.23,0.05,995.73,618.22,377.51
+ORD-11151,2024-01-18,Power Bank,Accessories,North,Corporate,Retail Store,11,54.03,0.2,437.43,288.23,149.2
+ORD-11152,2024-08-25,Desk Organizer,Office Supplies,West,Consumer,Online,3,26.02,0.2,68.69,32.56,36.13
+ORD-11153,2024-06-22,Mouse,Technology,West,Consumer,Online,2,40.29,0.1,79.77,36.71,43.06
+ORD-11154,2024-08-26,Mouse,Technology,North,Consumer,Retail Store,3,38.55,0.1,95.76,55.18,40.58
+ORD-11155,2024-01-06,Monitor,Technology,West,Corporate,Retail Store,1,287.06,0,315.77,175.04,140.73
+ORD-11156,2025-06-10,File Folder Pack,Office Supplies,Central,Small Business,Online,2,19.95,0.1,42.37,17.84,24.53
+ORD-11157,2024-05-04,Mouse,Technology,Central,Consumer,Online,1,41.61,0.05,46.64,18.58,28.06
+ORD-11158,2025-07-14,Notebook,Office Supplies,North,Consumer,B2B Sales,5,8.1,0.1,36.89,15.09,21.8
+ORD-11159,2025-10-27,Keyboard,Technology,West,Corporate,Retail Store,5,74.78,0.1,370.16,192.48,177.68
+ORD-11160,2024-08-03,USB-C Hub,Accessories,East,Corporate,B2B Sales,1,64.46,0,67.68,30.39,37.29
+ORD-11161,2024-01-06,Monitor,Technology,East,Corporate,Retail Store,1,270.51,0.05,269.83,168.46,101.37
+ORD-11162,2024-12-24,Standing Desk,Furniture,North,Corporate,B2B Sales,1,541.88,0.15,529.69,316.48,213.21
+ORD-11163,2024-11-09,Desk Organizer,Office Supplies,North,Corporate,Retail Store,5,24.19,0,139.09,56.71,82.38
+ORD-11164,2024-10-13,Headset,Technology,Central,Consumer,Retail Store,2,94.84,0.05,212.63,93.58,119.05
+ORD-11165,2025-09-11,Webcam,Technology,West,Corporate,Online,1,114.22,0.2,100.51,57.21,43.3
+ORD-11166,2025-09-21,Monitor,Technology,North-East,Small Business,Online,3,270.26,0.05,770.24,515.5,254.74
+ORD-11167,2025-11-11,Printer Paper,Office Supplies,West,Corporate,Online,9,14.97,0.05,175.99,63.83,112.16
+ORD-11168,2024-11-15,Phone Charger,Accessories,West,Consumer,Retail Store,4,31.67,0.2,139.35,49.84,89.51
+ORD-11169,2025-12-29,Mouse,Technology,West,Consumer,Retail Store,1,38.88,0.15,45.44,18.46,26.98
+ORD-11170,2024-07-01,Keyboard,Technology,North-East,Corporate,Online,1,76.63,0.15,71.65,39.69,31.96
+ORD-11171,2024-07-14,Pen Set,Office Supplies,Central,Consumer,Online,4,11.53,0,59.86,15.79,44.07
+ORD-11172,2025-01-12,Backpack,Accessories,Central,Corporate,Online,7,87.05,0.05,683.08,279.22,403.86
+ORD-11173,2025-12-22,Webcam,Technology,Central,Small Business,B2B Sales,3,115.8,0.2,409.93,178.22,231.71
+ORD-11174,2025-05-17,Webcam,Technology,West,Small Business,Online,1,115.44,0,126.98,59.83,67.15
+ORD-11175,2024-05-14,Laptop,Technology,Central,Consumer,Retail Store,1,993.5,0,1172.33,644.6,527.73
+ORD-11176,2025-11-01,Office Chair,Furniture,North,Small Business,B2B Sales,1,226.8,0.15,221.7,127.63,94.07
+ORD-11177,2025-01-10,File Folder Pack,Office Supplies,North-East,Consumer,Retail Store,1,19.33,0.15,16.43,9.14,7.29
+ORD-11178,2024-09-30,Mouse,Technology,Central,Consumer,Online,1,39.09,0.1,41.51,18.7,22.81
+ORD-11179,2024-01-04,Headset,Technology,North,Consumer,Online,3,92.02,0.15,215.88,133.13,82.75
+ORD-11180,2024-04-02,Laptop,Technology,East,Consumer,Retail Store,1,928.09,0,974.49,635.29,339.2
+ORD-11181,2025-04-16,Webcam,Technology,East,Consumer,Retail Store,3,115.11,0.1,326.34,179.51,146.83
+ORD-11182,2024-11-13,Webcam,Technology,North,Consumer,Online,1,108.09,0,124.3,60.43,63.87
+ORD-11183,2024-06-30,Phone Charger,Accessories,North-East,Consumer,Retail Store,6,29.85,0.1,161.19,72.83,88.36
+ORD-11184,2025-10-08,Standing Desk,Furniture,Central,Small Business,Retail Store,1,528.77,0.2,499.16,313.21,185.95
+ORD-11185,2025-10-23,Bookshelf,Furniture,East,Consumer,B2B Sales,1,186.18,0,195.49,96.51,98.98
+ORD-11186,2024-08-03,Mouse,Technology,North,Consumer,Online,2,39.15,0,72.04,36.76,35.28
+ORD-11187,2025-01-16,File Folder Pack,Office Supplies,West,Small Business,Online,2,20.46,0.15,38.26,17.65,20.61
+ORD-11188,2025-03-07,Printer Paper,Office Supplies,Central,Consumer,Online,3,15.1,0,53.45,20.61,32.84
+ORD-11189,2025-09-23,Stapler,Office Supplies,North-East,Corporate,Online,5,17.73,0.05,84.22,40.15,44.07
+ORD-11190,2025-11-25,Notebook,Office Supplies,East,Corporate,B2B Sales,3,8.02,0.1,28.42,9.42,19.0
+ORD-11191,2025-02-14,Pen Set,Office Supplies,West,Consumer,Online,4,12.66,0.05,52.92,15.84,37.08
+ORD-11192,2025-11-10,Notebook,Office Supplies,Central,Consumer,Retail Store,6,8.05,0,71.24,17.64,53.6
+ORD-11193,2024-05-31,Monitor,Technology,North,Consumer,Online,3,281.02,0.1,698.05,505.3,192.75
+ORD-11194,2025-07-22,Phone Charger,Accessories,Central,Consumer,Online,8,30.45,0.05,300.38,95.51,204.87
+ORD-11195,2025-04-28,Desk Lamp,Furniture,East,Corporate,Online,1,57.0,0,59.85,24.82,35.03
+ORD-11196,2024-10-16,Desk Lamp,Furniture,West,Consumer,Online,1,56.87,0.1,56.3,23.89,32.41
+ORD-11197,2025-09-15,Monitor,Technology,North,Consumer,Retail Store,1,285.58,0.05,249.6,167.52,82.08
+ORD-11198,2024-08-23,Monitor,Technology,Central,Consumer,Online,1,287.11,0.05,321.85,169.99,151.86
+ORD-11199,2025-01-31,Desk Lamp,Furniture,Central,Consumer,B2B Sales,1,54.99,0.05,61.64,23.7,37.94
+ORD-11200,2024-03-25,File Folder Pack,Office Supplies,Central,Corporate,Online,1,19.52,0,23.03,9.14,13.89
